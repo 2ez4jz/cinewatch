@@ -1,17 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-09-09T11:13:04-04:00",
+  "updated_at": "2026-09-09T11:29:59-04:00",
   "showtimes": [
-    {
-      "theatre_id": "7408",
-      "theatre": "Cineplex Cinemas Vaughan",
-      "date": "2026-09-09",
-      "start_time": "11:00",
-      "format": "IMAX + 70mm",
-      "showtime_id": "539584",
-      "buy_url": "https://www.cineplex.com/ticketing/preview?theatreId=7408&showtimeId=539584&dbox=false",
-      "key": "7408:539584"
-    },
     {
       "theatre_id": "7420",
       "theatre": "Cineplex Cinemas Mississauga (Square One)",
