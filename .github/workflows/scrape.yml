@@ -8,7 +8,7 @@ on:
       - ".github/workflows/scrape.yml"
   schedule:
     - cron: "*/5 * * * *"
-    - cron: "17 8 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       mode:
@@ -41,7 +41,7 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "push" ]; then
             mode=deep
-          elif [ "${{ github.event.schedule }}" = "17 8 * * *" ]; then
+          elif [ "${{ github.event.schedule }}" = "17 * * * *" ]; then
             mode=deep
           elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             mode="${{ inputs.mode }}"
