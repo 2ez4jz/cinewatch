@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#090a0d">
+  <meta name="description" content="查看 Vaughan 与 Mississauga 的 Cineplex IMAX 70mm 场次和座位状态。">
+  <title>CineWatch · IMAX 70mm 座位</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="CineWatch 首页">
+      <span class="brand-mark">CW</span>
+      <span>CineWatch</span>
+    </a>
+    <div class="live-status" id="live-status">
+      <span class="pulse" aria-hidden="true"></span>
+      <span>正在读取</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro" aria-labelledby="page-title">
+      <p class="eyebrow">GREATER TORONTO AREA</p>
+      <h1 id="page-title">IMAX <em>70mm</em></h1>
+      <div class="intro-meta">
+        <p>只显示真正同时标注 IMAX 与 70mm 的 Cineplex 场次。</p>
+        <p id="updated">等待首次同步…</p>
+      </div>
+    </section>
+
+    <nav id="theatre-tabs" class="theatre-tabs" aria-label="选择影院"></nav>
+
+    <section class="results" aria-live="polite">
+      <div id="summary" class="summary"></div>
+      <div id="showtimes" class="showtimes">
+        <div class="state-card">正在加载 IMAX 70mm 场次…</div>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="seat-dialog" class="seat-dialog">
+    <div class="dialog-head">
+      <div>
+        <p id="seat-kicker" class="dialog-kicker"></p>
+        <h2 id="seat-title">座位图</h2>
+      </div>
+      <button id="close-dialog" class="icon-button" type="button" aria-label="关闭座位图">×</button>
+    </div>
+    <div class="screen"><span>SCREEN</span></div>
+    <div id="seat-map" class="seat-map"></div>
+    <div id="seat-stats" class="seat-stats"></div>
+    <div class="legend" aria-label="座位图例">
+      <span><i class="swatch available"></i>可选</span>
+      <span><i class="swatch occupied"></i>已占</span>
+      <span><i class="swatch accessible"></i>无障碍</span>
+      <span><i class="swatch unknown"></i>未知</span>
+    </div>
+    <a id="buy-link" class="buy-button" target="_blank" rel="noopener">前往 Cineplex 购票</a>
+  </dialog>
+
+  <footer>
+    <p>非 Cineplex 官方网站。数据来自 Cineplex 公开网页所使用的接口，可能延迟或中断。</p>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

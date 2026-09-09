@@ -1,66 +1,37 @@
-# Cineplex Showtime Watcher
+# CineWatch
 
-每 15 分钟检查以下两家影院未来 21 天的场次，只保留 **The Odyssey + IMAX + 70mm**：
+一个只关注 GTA 两家真正 IMAX 70mm 影院的轻量座位监控页：
 
-- Cineplex Cinemas Vaughan（Cineplex theatre ID `7408`）
-- Cineplex Cinemas Mississauga / Square One（Cineplex theatre ID `7420`）
+- Cineplex Cinemas Vaughan（theatre ID `7408`）
+- Cineplex Cinemas Mississauga / Square One（theatre ID `7420`）
+- 只保留 `experienceTypes` 同时包含 `IMAX` 与 `70mm` 的场次
+- 展示场次、实时座位图、可选座位数量和 Cineplex 购票链接
 
-发现新 Vista session ID 后，Telegram 通知会包含影院、日期、时间、格式和可直接进入选座/购票页的链接。首次运行默认只建立基线，不会把所有现有场次当成新增通知。
+网站：https://2ez4jz.github.io/cinewatch/
 
-> Cineplex 没有为此提供公开稳定的官方 API。本项目使用其网站当前调用的 theatrical JSON endpoint，因此未来网页接口变更时可能需要维护。请求有超时、指数退避重试，并保持低并发。
+## 刷新机制
 
-## 本地运行
+GitHub Actions 约每 5 分钟运行一次 quick scan：检查未来 14 天，以及此前已经发现的所有远期日期。这样已知远期场次的座位也会持续刷新。
 
-需要 Python 3.11+。
+每天执行一次 deep scan，逐日检查未来 180 天，用来发现刚开放销售的远期场次。也可以在 Actions 页面手动选择 `deep` 运行。
 
-```bash
-python -m venv .venv
-source .venv/bin/activate        # Windows PowerShell: .venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-cp .env.example .env             # Windows: copy .env.example .env
-```
+GitHub 的 scheduled workflows 是尽力调度，繁忙时可能晚于标称的 5 分钟。
 
-编辑 `.env`，至少填写：
+## API key
 
-- `TELEGRAM_BOT_TOKEN`：在 Telegram 找 `@BotFather`，运行 `/newbot` 后取得。
-- `TELEGRAM_CHAT_ID`：先给机器人发一条消息，然后浏览器打开 `https://api.telegram.org/bot<你的TOKEN>/getUpdates`，在返回 JSON 的 `message.chat.id` 找到。群聊 ID 通常是负数；若用于群聊，先把机器人加入群并发一条消息。
-- `CINEPLEX_SUBSCRIPTION_KEY`：可留空，程序会从 Cineplex 当前前端自动发现。若自动发现失效，可在浏览器开发者工具 Network 中查看 `apis.cineplex.com/.../showtimes` 请求的 `Ocp-Apim-Subscription-Key` 并填入。
+脚本优先读取仓库 Secret `CINEPLEX_SUBSCRIPTION_KEY`。未设置时，会尝试从 Cineplex 当前公开网页所加载的前端 JavaScript 中自动发现其公开 API subscription key。如果 Cineplex 改版导致自动发现失效，再添加 Secret 即可。
 
-运行：
+## 本地检查
 
 ```bash
-python watcher.py
+npm test
+npm run check
+CINEPLEX_SUBSCRIPTION_KEY=... SCRAPE_MODE=quick node scripts/scrape.mjs
+python -m http.server 8000
 ```
 
-首次运行会写入 `data/state.json` 作为比较基线。想测试通知，可暂时将 `.env` 中 `NOTIFY_ON_FIRST_RUN=true`，删除本地 `data/state.json` 后运行；测试完恢复为 `false`。
+## 说明
 
-运行测试：
+本项目不是 Cineplex 官方产品，使用的是 Cineplex 网站当前使用的未公开接口，接口结构或访问方式可能随时变化。
 
-```bash
-pip install -r requirements-dev.txt
-pytest -q
-```
-
-## 部署到 GitHub Actions
-
-1. 在 GitHub 新建一个 repository，把本目录内的全部文件（包括 `.github`）推送到仓库根目录。
-2. 打开仓库 **Settings → Secrets and variables → Actions → New repository secret**。
-3. 添加 `TELEGRAM_BOT_TOKEN` 和 `TELEGRAM_CHAT_ID`。
-4. 可选添加 `CINEPLEX_SUBSCRIPTION_KEY`；不添加时会自动发现当前公共前端键。
-5. 打开 **Actions → Watch Cineplex showtimes → Run workflow** 手动跑一次，确认日志成功。首次成功运行只建立基线。
-6. 此后 workflow 每 15 分钟触发一次，并把成功结果提交回 `data/state.json`。GitHub 定时任务可能排队几分钟，不保证精确到分钟。
-
-如果仓库开启了分支保护，需允许 GitHub Actions 写入默认分支，或对本 workflow 使用的 bot 放行。仓库的 **Settings → Actions → General → Workflow permissions** 也应选择 **Read and write permissions**；workflow 文件已经声明 `contents: write`。
-
-## 状态与失败行为
-
-- 只有完整抓取成功、且 Telegram 通知成功后才原子更新状态。
-- 任一 Cineplex 请求或 Telegram 请求在重试后仍失败，进程会返回非零，旧状态保留；下次运行会再次尝试，因此不会因一次短暂故障漏掉新增场次。
-- 日志输出到控制台，可直接在 GitHub Actions 的对应 run 中查看；不会把 token 写入日志。
-- `data/state.json` 仅保存公开场次数据，不包含任何秘密。
-
-## 调整
-
-- 修改 `.github/workflows/watch.yml` 的 cron 可调整频率；GitHub Actions cron 使用 UTC。
-- 修改 workflow 中 `WATCH_DAYS` 可调整前瞻天数（允许 1–90）。天数越大，请求越多。
-- 影院 ID 和名称集中在 `watcher.py` 的 `THEATRES` 常量中。
+座位抓取的数据压缩方式参考了 MIT 授权项目 [ariesyous/cinescan](https://github.com/ariesyous/cinescan)，并针对仅两家 IMAX 70mm 影院的用途重新实现。

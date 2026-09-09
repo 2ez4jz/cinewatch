@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-09T00:00:00.000Z",
+  "mode": "initial",
+  "theatres": [
+    {
+      "id": 7408,
+      "slug": "vaughan",
+      "name": "Cineplex Cinemas Vaughan",
+      "shortName": "Vaughan",
+      "location": "Highway 7 & Highway 400",
+      "auditoriums": {},
+      "days": []
+    },
+    {
+      "id": 7420,
+      "slug": "mississauga",
+      "name": "Cineplex Cinemas Mississauga",
+      "shortName": "Mississauga",
+      "location": "Square One",
+      "auditoriums": {},
+      "days": []
+    }
+  ]
+}
