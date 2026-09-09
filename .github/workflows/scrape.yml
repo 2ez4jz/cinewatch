@@ -49,11 +49,14 @@ jobs:
           fi
           echo "mode=$mode" >> "$GITHUB_OUTPUT"
       - name: Refresh showtimes and seats
+        id: refresh
+        continue-on-error: true
         env:
           SCRAPE_MODE: ${{ steps.scan.outputs.mode }}
           CINEPLEX_SUBSCRIPTION_KEY: ${{ secrets.CINEPLEX_SUBSCRIPTION_KEY }}
         run: node scripts/scrape.mjs
       - name: Save refreshed data
+        if: steps.refresh.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -61,3 +64,6 @@ jobs:
           git diff --cached --quiet || git commit -m "data: refresh IMAX 70mm seats"
           git pull --rebase
           git push
+      - name: Keep last good data after a temporary Cineplex failure
+        if: steps.refresh.outcome == 'failure'
+        run: echo "::warning::Cineplex could not be reached; keeping the last successful seat data and retrying next run."
