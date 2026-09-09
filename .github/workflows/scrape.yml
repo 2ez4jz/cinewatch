@@ -1,6 +1,10 @@
 name: Refresh IMAX 70mm data
 
 on:
+  push:
+    paths:
+      - "scripts/scrape.mjs"
+      - ".github/workflows/scrape.yml"
   schedule:
     - cron: "*/5 * * * *"
     - cron: "17 8 * * *"
@@ -34,7 +38,9 @@ jobs:
         id: scan
         shell: bash
         run: |
-          if [ "${{ github.event.schedule }}" = "17 8 * * *" ]; then
+          if [ "${{ github.event_name }}" = "push" ]; then
+            mode=deep
+          elif [ "${{ github.event.schedule }}" = "17 8 * * *" ]; then
             mode=deep
           elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             mode="${{ inputs.mode }}"
