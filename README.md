@@ -9,6 +9,17 @@
 
 网站：https://2ez4jz.github.io/cinewatch/
 
+## 新日期推送（第二版）
+
+当任一影院首次出现新的 IMAX 70mm 放映日期时，系统会立即通过 Telegram 推送影院、日期、电影、场次时间和网站入口。同一天增加新场次不会重复提醒，旧日期也不会在启用功能时集中补发。
+
+在仓库 `Settings → Secrets and variables → Actions` 中添加：
+
+- `TELEGRAM_BOT_TOKEN`：通过 Telegram 的 `@BotFather` 创建机器人后获得
+- `TELEGRAM_CHAT_ID`：与你的机器人对话后，通过 `getUpdates` 获得的个人 chat ID
+
+如果 Telegram 临时发送失败，该日期不会被标记为已通知，下一轮会再次尝试；推送失败也不会让整个座位刷新任务报错。
+
 ## 刷新机制
 
 GitHub Actions 约每 5 分钟运行一次 quick scan：检查未来 14 天，以及此前已经发现的所有远期日期。这样已知远期场次的座位也会持续刷新。

@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "scripts/scrape.mjs"
+      - "scripts/notify.mjs"
       - ".github/workflows/scrape.yml"
   schedule:
     - cron: "*/5 * * * *"
@@ -55,12 +56,19 @@ jobs:
           SCRAPE_MODE: ${{ steps.scan.outputs.mode }}
           CINEPLEX_SUBSCRIPTION_KEY: ${{ secrets.CINEPLEX_SUBSCRIPTION_KEY }}
         run: node scripts/scrape.mjs
+      - name: Notify newly released dates
+        if: steps.refresh.outcome == 'success'
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/notify.mjs
       - name: Save refreshed data
         if: steps.refresh.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/showtimes.json
+          git add data/showtimes.json data/notification-state.json
           git diff --cached --quiet || git commit -m "data: refresh IMAX 70mm seats"
           git pull --rebase
           git push

@@ -237,7 +237,7 @@ async function main() {
     const old = existing.theatres?.find(item => String(item.id) === String(theatre.id));
     theatres.push(await scrapeTheatre(theatre, old, key));
   }
-  const output = { version: 1, updatedAt: new Date().toISOString(), mode: MODE, theatres };
+  const output = { version: 2, updatedAt: new Date().toISOString(), mode: MODE, theatres };
   await mkdir(new URL("../data/", import.meta.url), { recursive: true });
   await writeFile(OUTPUT_PATH, `${JSON.stringify(output, null, 2)}\n`);
   console.log(`Updated ${theatres.reduce((sum, theatre) => sum + theatre.days.length, 0)} theatre-days`);
