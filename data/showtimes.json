@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T17:33:05.705Z",
+  "updatedAt": "2026-09-10T17:47:23.739Z",
   "mode": "quick",
   "theatres": [
     {
@@ -6078,10 +6078,10 @@
                   "layoutKey": "539597",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...AAAAAAOOOOOOAAAAAAAAAAAA..",
+                    "...AAAAAAAAOOOOAAAAAAAAAAAA..",
                     "..AAAOOAOOOOOOO?OOOOOOOOAAAO.",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOAAAAA",
-                    "..AAAAOOOOOOOOAOOOOOOOAAAA...",
+                    "OOAAOOOOOOOOOOOOOOOOOOOOAAAAA",
+                    "..AAAAAOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -6102,10 +6102,10 @@
                   "layoutKey": "539598",
                   "seats": [
                     "....AAAAAAA?OOOAAAAAAAAAAA...",
-                    "...OOAAAAOOOOOOOOOOOOOAAAAA..",
+                    "...AAAAAAOOOOOOOOOOOOOAAAAA..",
                     "..AOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOAOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "..AAAAOOOOOOOOOOOOOOOOAAAA...",
+                    "..AAAAAAOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -6168,7 +6168,7 @@
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOAOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
@@ -6326,7 +6326,7 @@
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
+                    "OOOOOOOOOOOOOAAOOOOOOOOOOOOO."
                   ]
                 },
                 {
@@ -7495,7 +7495,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
-                    "AAAAOOOOOOOOOOOOOOOOOOOAAAAAA",
+                    "AAAAOOOOOOOOOOOOOOOOOAAAAAAAA",
                     "..AAAAOOOOOOOOOOOOOOOOOAAO...",
                     ".............................",
                     ".............................",
@@ -7662,7 +7662,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "..AAAAAAOOOOOOOOOOAAAAAAAA...",
+                    "..AAAAOOOOOOOOOOOOAAAAAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOAA",
@@ -16815,12 +16815,12 @@
                   "layoutKey": "387225",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
-                    "..AAAAAAAAOOOOOAAAAAAAAAA....",
+                    "..OOAAAAAAOOOOOAAAAAAAAAA....",
                     ".OOAOOOOOOOOOOOOOOOOOOOOOO...",
                     "AOOOOOOOOOOOOOOOOOOOOOOAOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOAOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -16862,7 +16862,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAOOOOAAAAAAAAAA....",
-                    ".OOOOOOOOOOOOOOOOOOOOAAAAA...",
+                    ".OOOOOOOOOOOOOOOOOOOOOOAAA...",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "..AAOOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
@@ -16942,7 +16942,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAOOOOOOOOOOOOOOOO....",
-                    ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
+                    ".OOOOOOOOOOOOOOOOOOAAOOOOO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
@@ -17007,7 +17007,7 @@
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
+                    "OOOOOOOOOOOOOOOAAOOOOOOOOOOOO"
                   ]
                 },
                 {
@@ -17147,7 +17147,7 @@
                   "layoutKey": "387238",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
-                    "..AAAAAAAAOOAAAOAAAAAAAAA....",
+                    "..OOAAAAAAOOAAAOAAAAAAAAA....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOA...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOAOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOOAA..",
@@ -17596,7 +17596,7 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
                     "AAAAAAAAAOOOOOOOOOOOAAAAAAAA.",
-                    "..AAAAOOOOOOOOOOOOAAOOOOAAA..",
+                    "..AAAAOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -17629,7 +17629,7 @@
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAOOOAAAAAAAAAA...",
-                    "AAAOOOOOOOOOOOOOOOOOOOAAAAAA.",
+                    "AAAOOOOAOOOOOOOOOOOOOOAAAAAA.",
                     "..AOOOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -17651,7 +17651,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
-                    ".AAAAOOOOOOOOOOOOOOAAAAAAA...",
+                    ".AAAAOOOOOOOOOOOOOOOOAAAAA...",
                     "AAAOOOOOOOOOOOOOOOOOOOOAAAAA.",
                     "..AAAAOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
@@ -17904,7 +17904,7 @@
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
-                    "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
+                    "AAAAAOOOOOOOOOOOAAAAAAAAAAAA.",
                     "..AAAAAAAAOOOOOOOOOAAAAAAAA..",
                     ".............................",
                     "AAOOOOOOOOOOOOOOOOOOOOOOAAOO.",
@@ -18562,7 +18562,7 @@
                     "AAAAAOOOOOOOOOOOOOOOOOAAAAAA.",
                     "AAAAAOOOOOOOOOOOOOOOOOOOAAAA.",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOAAO",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOOAAO.",
+                    "OAAAOOOOOOOOOOOOOOOOOOOOOAAO.",
                     "OAAOOOOOOOOOOOOOOOOOOOOOAAAOO"
                   ]
                 },
@@ -18626,7 +18626,7 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
-                    "..AAAAAAAOOOOOOOOOOAAAAAAAA..",
+                    "..AAAOOOOOOOOOOOOOOAAAAAAAA..",
                     ".............................",
                     "AAAAAOOOOOOOOOOOOOOOOOOOAAAA.",
                     "AAAAAOOOOOOOOOOOOOOOOOOOAAAA.",
@@ -18663,7 +18663,7 @@
                     "..AAAAAAAOOOOOOOOOOAAAAAAAA..",
                     ".............................",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOAA.",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOOOAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOAAO",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOAOOOOOOOOOOOOOOOOOOOOOOOOOO"
