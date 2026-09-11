@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T03:10:48.316Z",
-  "mode": "quick",
+  "updatedAt": "2026-09-11T03:24:21.740Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -235,38 +235,6 @@
           ]
         },
         "531223": {
-          "totalRows": 12,
-          "totalColumns": 29,
-          "rowLabels": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            null,
-            null,
-            "F",
-            "G",
-            "H",
-            "I",
-            "J"
-          ],
-          "seatTypes": [
-            "....SSSSSSSSSSSSSSSSSSSSSS...",
-            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
-            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
-            ".............................",
-            ".............................",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
-          ]
-        },
-        "539599": {
           "totalRows": 12,
           "totalColumns": 29,
           "rowLabels": [
@@ -5997,41 +5965,6 @@
       },
       "days": [
         {
-          "date": "2026-09-10",
-          "movies": [
-            {
-              "title": "The Odyssey",
-              "runtimeMinutes": 172,
-              "sessions": [
-                {
-                  "id": "539599",
-                  "time": "23:00",
-                  "formats": [
-                    "IMAX",
-                    "70mm"
-                  ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539599&a=0000000001&l=7408&m=the-odyssey&ss=False",
-                  "layoutKey": "539599",
-                  "seats": [
-                    "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...AAAAAAOOAAAAOAAAAAAAAAAA..",
-                    "..AAAAAAOOOOOOO?OOOOOOAAOOOO.",
-                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
-                    "..AAAAOOOOOOOOOOOOOOOOAAAA...",
-                    ".............................",
-                    ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "date": "2026-09-11",
           "movies": [
             {
@@ -6204,7 +6137,7 @@
                   "layoutKey": "539612",
                   "seats": [
                     "....AAAAAAA?OOOOAAAAAAAAAA...",
-                    "...OOAAOOOOOOOOOOOOOOOOAAAA..",
+                    "...AAAAOOOOOOOOOOOOOOOOAAAA..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOAO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
@@ -6526,7 +6459,7 @@
                   "seats": [
                     "....AAAAAAA?OOOOOOAAAAAAAA...",
                     "...AAOOOOOOOOOOOOOOOOOOOAAA..",
-                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
+                    "..OOAOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAOOOOOOOOOOOOOOOOOOAAA...",
                     ".............................",
@@ -6722,7 +6655,7 @@
                     ".............................",
                     ".............................",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "AAOOOOOOOOOOOOOOOOOOOOOOOOOOA",
+                    "OAOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
@@ -8025,7 +7958,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAOOOOO?AAAAAAAAAAAA.",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "AAAAOOOOOOOOOOOOOOOOOOOAAOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
@@ -18278,8 +18211,8 @@
                     "..AAAAAAAOOOOOOOOOOAAAAAAAA..",
                     ".............................",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOOAA.",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOAAAA.",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOOOAAO",
+                    "AAAAAOOOOOOOOOOOOOOOOOOOAAAA.",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOAAO",
                     "OAAAOOOOOOOOOOOOOOOOOOOOOAAO.",
                     "OAAOOOOOOOOOOOOOOOOOOOOOAAAOO"
                   ]
@@ -18526,7 +18459,7 @@
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAOOOAAAAAAAAAA...",
-                    "AAAAAAAAOOOOOOOOOOOOOOOAAAAA.",
+                    "AAAAAOAAOOOOOOOOOOOOOOOAAAAA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOOAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
