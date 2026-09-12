@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-12T13:15:45.434Z",
-  "mode": "quick",
+  "updatedAt": "2026-09-12T13:22:12.908Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -5879,7 +5879,7 @@
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...OOAOOOOOOOOOOOOOOOOOOOOO..",
-                    "..OOOOOOOOOOOOO?OOOOOOOOOOOA.",
+                    "..OOOOOOOOOOOOO?OOOOOAAOOOOA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOOAAA...",
                     ".............................",
@@ -6605,7 +6605,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAOOO?OOAAAAAAAAAA.",
-                    "AAAAAAAOOOOOOOOOOOOOAAAAAAAOO",
+                    "AAAAOAAOOOOOOOOOOOOOAAAAAAAOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
@@ -7294,7 +7294,7 @@
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
-                    "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
+                    "..AAAAOOOOAAAAA?AAAAAAAAAAAA.",
                     "OOAAOOAOOOOOOOOOOOOOOOOAAAAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -7401,7 +7401,7 @@
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
-                    "..AAAAOOOOOOOOO?OOOOOOAAAAAA.",
+                    "..AAAAOOOOOOOOO?OOAAAAAAAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOOOOAAAAA",
                     "..AAAOOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -16191,7 +16191,7 @@
                   "layoutKey": "387232",
                   "seats": [
                     "...AAAAAAAAAOOAAAAAAAAA......",
-                    "..OOOOAAAOOAOOOOOAAAOOOOO....",
+                    "..OOOOOOAOOAOOOOOAAAOOOOO....",
                     ".OOAOOOOOOOOOOOOOOOOOOOOOO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOOAA..",
@@ -16216,7 +16216,7 @@
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..OOOAOOOOOOOOOOOOOOOAOOO....",
                     ".OOAOOOOOOOOOOOOOOOOOOOOOO...",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOAAO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -16236,7 +16236,7 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387234&a=0000000001&l=7420&m=the-odyssey&ss=False",
                   "layoutKey": "387234",
                   "seats": [
-                    "...AAAAAAAAAAOOAAAAAAAA......",
+                    "...OOAAAAAAAAOOAAAAAAAA......",
                     "..OOOOOOAOOOOOOOOOOOOOAOO....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -16559,7 +16559,7 @@
                     "...AAAAAAAAAOOAAAAAAAAA......",
                     "..AAAAAAAAAOOAOOOOOOAAAAA....",
                     ".AAOOOOOOOOOOOOOOOAAOOOAAA...",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOOAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -17033,7 +17033,7 @@
                     ".............................",
                     "AAOOOOOOOOOOOOOOOOOOOOOAAAAA.",
                     "AOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
-                    "AOOOOOOOOOOOOOOOOOOOOOOOOAAAA",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOAA",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
                   ]
