@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-12T22:19:55.887Z",
-  "mode": "quick",
+  "updatedAt": "2026-09-12T22:22:30.621Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -5789,8 +5789,8 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539612&a=0000000001&l=7408&m=the-odyssey&ss=False",
                   "layoutKey": "539612",
                   "seats": [
-                    "....OOAAOOO?OOOOOOOOAAAOOO...",
-                    "...OOOOOOOOOOOOOOOOOOOOOOOO..",
+                    "....AAAAOOO?OOOOOOOOAAAOOO...",
+                    "...OOOOOOOOOOOOOOOOOOOOOAOO..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAOOOOOOOOOOOOOOOOOAAAA...",
@@ -5822,7 +5822,7 @@
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOAAOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
                   ]
@@ -6218,7 +6218,7 @@
                   "layoutKey": "539631",
                   "seats": [
                     "....AAAAAAA?AAAOAAAAAAAAAA...",
-                    "...OOOOOOOOOOOOOOOOOOOAAAAA..",
+                    "...OOOAAOOOOOOOOOOOOOOAAAAA..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..OOAOOOOOOOOOOOOOOOOOOOOO...",
@@ -10478,7 +10478,7 @@
                     "..AAAAAAAAAAAOOOAAAAAAAAAA...",
                     ".............................",
                     ".............................",
-                    "AAAAAAAAOOOOOOOOOOOOOOAAAAAAA",
+                    "AAAAAAAAOOOOOOOOOOOOAAAAAAAAA",
                     "AAAAAAAAAOOOOOOOOOOOOOAAAAAAA",
                     "AAAAAAAOOOOOOOOOOOOOOOAAAAAAA",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAAA",
@@ -16018,7 +16018,7 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387234&a=0000000001&l=7420&m=the-odyssey&ss=False",
                   "layoutKey": "387234",
                   "seats": [
-                    "...AAAOOAAAOOOOOOOAAAAA......",
+                    "...AAAAAAAAOOOOOOOAAAAA......",
                     "..OOOOOOOOOOOOOOOOOOOOOOO....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -16043,7 +16043,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAOOOOOOOAAAAAAAAA....",
-                    ".OOOOOOOOOOOOOOOOOOOOOOOOA...",
+                    ".OOOOOOOOOOOOOOOOOAAOOOOOA...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOOAA..",
                     ".............................",
@@ -16729,7 +16729,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
-                    ".AAAAOOOAAOOOOOOOOOOOAAAAA...",
+                    ".AAAAAAAAAOOOOOOOOAAAAAAAA...",
                     "AAOOOOOOOOOOOOOOOOOOOOOAAAAA.",
                     "..AAAAOOOOOOOOOOOOOOOOOAAAA..",
                     ".............................",
@@ -19742,7 +19742,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAAAAAOOAAAAAAAAAAAA..",
                     ".............................",
-                    "AAAAAAAAAOOOOOOOOOOOAAAAAAAA.",
+                    "AAAAAAAOOOOOOOOOOOOOAAAAAAAA.",
                     "AAAAAAAOOOOOOOOOOOOOOOAAAAAA.",
                     "AAAAAAAOOOOOOOOOOOOOOAAAAAAAA",
                     "AAAAAAAOOOOOOOOOOOOOOOAAAAAA.",
