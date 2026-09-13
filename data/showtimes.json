@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-13T22:36:57.435Z",
+  "updatedAt": "2026-09-13T22:51:13.900Z",
   "mode": "quick",
   "theatres": [
     {
@@ -5661,14 +5661,14 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539615&a=0000000001&l=7408&m=the-odyssey&ss=False",
                   "layoutKey": "539615",
                   "seats": [
-                    "....AAAAAAA?OOOOOOAAAAAAAA...",
-                    "...OOOOAOOOOOOOOOOOOOOOAAOO..",
+                    "....AAOOAAA?OOOOOOAAAAAAAA...",
+                    "...OOOOAOOOOOOOOOOOOOOOAAAA..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAOOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOAOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -5688,15 +5688,15 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAOOOOOOOOO?OOOOOOOOAAAA.",
-                    "AOOOAOOAAOOOOOOOOOOOOOOOAAAOO",
+                    "AOOOAOOOOOOOOOOOOOOOOOOOAAAOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
-                    "OOOAAOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOAOOOOOOOOOOOO."
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
                   ]
                 }
               ]
@@ -5769,7 +5769,7 @@
                   "layoutKey": "539618",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...AAOOOOOOOOOAAOOAAAAAAOOO..",
+                    "...AAOOOOOOOOOOOOOAAAAAAOOO..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
@@ -5794,7 +5794,7 @@
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
-                    "..AAAAAAOOAAOOO?OOOOOOAAAAAA.",
+                    "..AAAAOAOOAAOOO?OOOOOOAAAAAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -5828,7 +5828,7 @@
                   "layoutKey": "539625",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...AAAAAOOOOOOOOOOAAAAAAAAA..",
+                    "...AAAAAAAAAAOOOOOAAAAAAAAA..",
                     "..AAAOOOOAAOOOO?OOOOOOOOOOOA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOAOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOOAAO...",
@@ -5875,7 +5875,7 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539623&a=0000000001&l=7408&m=the-odyssey&ss=False",
                   "layoutKey": "539623",
                   "seats": [
-                    "....AAAAOOO?OOOOOOAAAAAAAA...",
+                    "....OOOOOOO?OOOOOOAAAAAAAA...",
                     "...AAOOOOOOOOOOOOOOOOOOOAAA..",
                     "..OOAOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -7293,7 +7293,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
-                    "AAAAAAAAAAAAOOOOOOOOAAAAAAAAA",
+                    "AAAAAAAAAAAAOOAAAAAAAAAAAAAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
@@ -7356,7 +7356,7 @@
                     "..AAAAAAOOOOOOOOOOOOOAAAAA...",
                     ".............................",
                     ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -7442,7 +7442,7 @@
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOAAO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
                   ]
                 },
@@ -15664,7 +15664,7 @@
                   "layoutKey": "387238",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
-                    "..AAAAAOOOOOOOOOOAOOAAAAA....",
+                    "..OOOAAOOOOOOOOOOAOOAAAAA....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOA...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOAOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOOAA..",
@@ -15859,7 +15859,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
-                    ".AAAOOOOOOOAAOOOOOOOOOOAAA...",
+                    ".AAAOOOOOOOAOOOOOOOOOOOAAA...",
                     "OOOOOAOOOOOOOOOOOOOOOOAOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
@@ -16088,7 +16088,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
-                    ".AAAAOOOOOOOOOOOOOOOOOAAAA...",
+                    ".AAAAOOOOOOOOOOOOOOOOOOOAA...",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
@@ -16460,7 +16460,7 @@
                     ".............................",
                     "OOAOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OAOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
                   ]
@@ -16584,7 +16584,7 @@
                     "AAAAAAAAAAAAAOOAAAAAAAAAAAAA.",
                     "..AAAAAAAAOOOOOOOOOAAAAAAAA..",
                     ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOAOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -17221,7 +17221,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
-                    ".AAAAAAAAAOOOOOOOOOAAAAAAA...",
+                    ".AAAAOOAAAOOOOOOOOOAAAAAAA...",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOOAA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
