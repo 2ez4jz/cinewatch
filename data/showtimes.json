@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-13T21:17:56.664Z",
-  "mode": "quick",
+  "updatedAt": "2026-09-13T21:22:30.909Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -5663,7 +5663,7 @@
                   "seats": [
                     "....AAAAAAA?OOOOOOAAAAAAAA...",
                     "...OOOOAOOOOOOOOOOOOOOOAAAA..",
-                    "..OOAOOOOOOOOOO?OOOOOOOOOOOO.",
+                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAOOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -5686,7 +5686,7 @@
                   "layoutKey": "539614",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...AAAAAAOOOAAAAAAAAAAAAAAA..",
+                    "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAOOOOOOOOO?OOOOOOOOAAAA.",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOAAOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
@@ -6092,7 +6092,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAOO?OOAAAAAAAAAA.",
-                    "AAAAAAOOOOOOOOOOOOOOOAAAAAAAA",
+                    "AAAAOAOOOOOOOOOOOOOOOAAAAAAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
@@ -6152,7 +6152,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
                     "AAAAAAAAAAAOOOOOOOOAAAAAAAAOO",
-                    "..AAAAOOOOOOOOOOOOOOOOAAAA...",
+                    "..AAAAAAOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
                     "OOAOOOOOOOOOOOOOOOOOOOOOOOOOA",
@@ -6387,7 +6387,7 @@
                   "layoutKey": "542440",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...AAAAAAOOOOAAAAAAAAAAAAAA..",
+                    "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAOOOAOOOOO?OOOOOAAAAAAA.",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOAAAA",
                     "..AAAAAOOOOOOOOOOOOOOOAAAA...",
@@ -7007,7 +7007,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
-                    "AAAAAOOOOOOOOOOOOOOAAAAAAAAAA",
+                    "AAAAAOOOOOOOOOOOOOOOOAAAAAAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
@@ -7055,7 +7055,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAOOAAAAAAAAAAAAAA..",
                     "..AAAAOOOOOOOOO?OOAAAAAAAAAA.",
-                    "AAAAOAOOOOOOOOOOOOOOOOOOAAAAA",
+                    "AAAAAAOOOOOOOOOOOOOOOOOOAAAAA",
                     "..AAAOOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
@@ -15664,7 +15664,7 @@
                   "layoutKey": "387238",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
-                    "..AAAAAOOOOOOOOOAAOOAAAAA....",
+                    "..OOOOAOOOOOOOOOAAOOAAAAA....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOA...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOOAA..",
@@ -15672,7 +15672,7 @@
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOAOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
                   ]
                 }
@@ -16809,8 +16809,8 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
-                    ".AAAAAAAAAAOOOOAAAAAAAAAAA...",
-                    "AAAAAOOOOOOOOOOOOOOOOOOOAAAA.",
+                    ".AAAAAAAAAAOOOOOOAAAAAAAAA...",
+                    "AAAAAAAOOOOOOOOOOOOOOOOOAAAA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
