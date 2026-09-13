@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-13T23:07:07.250Z",
-  "mode": "quick",
+  "updatedAt": "2026-09-13T23:21:41.571Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -299,38 +299,6 @@
           ]
         },
         "539614": {
-          "totalRows": 12,
-          "totalColumns": 29,
-          "rowLabels": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            null,
-            null,
-            "F",
-            "G",
-            "H",
-            "I",
-            "J"
-          ],
-          "seatTypes": [
-            "....SSSSSSSSSSSSSSSSSSSSSS...",
-            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
-            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
-            ".............................",
-            ".............................",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
-          ]
-        },
-        "539615": {
           "totalRows": 12,
           "totalColumns": 29,
           "rowLabels": [
@@ -5652,30 +5620,6 @@
               "runtimeMinutes": 172,
               "sessions": [
                 {
-                  "id": "539615",
-                  "time": "19:00",
-                  "formats": [
-                    "IMAX",
-                    "70mm"
-                  ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539615&a=0000000001&l=7408&m=the-odyssey&ss=False",
-                  "layoutKey": "539615",
-                  "seats": [
-                    "....AAOOAAA?OOOOOOAAAAAAAA...",
-                    "...OOOOAOOOOOOOOOOOOOOOAAAA..",
-                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
-                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "..AAAOOOOOOOOOOOAOOOOOAAAA...",
-                    ".............................",
-                    ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOAOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
-                  ]
-                },
-                {
                   "id": "539614",
                   "time": "23:00",
                   "formats": [
@@ -5695,7 +5639,7 @@
                     "OOOOOOOOOOOAOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOAOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
                   ]
                 }
@@ -5900,7 +5844,7 @@
                   "layoutKey": "539622",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...AAAAAAAAOOOOAAAAAAAAAAAA..",
+                    "...AAAAAAOOOOOOAAAAAAAAAAAA..",
                     "..OOOOOOOOOOOOO?OOOOOOOAOOOO.",
                     "OOOOOOOOOOOOOOOOOOOAOOOOOOOOO",
                     "..AAOOOOOOOOOOOOOOOOOOOAAA...",
@@ -6901,7 +6845,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "..AAAAOOOOOOOOOOOOOOOOAAAA...",
+                    "..AAAAOOOOOOOOOOOOOOAAAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -7442,7 +7386,7 @@
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOAAO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
                   ]
                 },
@@ -10394,36 +10338,6 @@
       "shortName": "Mississauga",
       "location": "Square One",
       "auditoriums": {
-        "387238": {
-          "totalRows": 11,
-          "totalColumns": 29,
-          "rowLabels": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            null,
-            "F",
-            "G",
-            "H",
-            "I",
-            "J"
-          ],
-          "seatTypes": [
-            "...SSSSSSSSSSSSSSSSSSSS......",
-            "..SSSSSSSSSSSSSSSSSSSSSSS....",
-            ".SSSSSSSSSSSSSSSSSSSSSSSSS...",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "..WWCSSSSSSSSSSSSSSSSSSSCWW..",
-            ".............................",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
-          ]
-        },
         "387239": {
           "totalRows": 11,
           "totalColumns": 29,
@@ -15647,40 +15561,6 @@
       },
       "days": [
         {
-          "date": "2026-09-13",
-          "movies": [
-            {
-              "title": "The Odyssey",
-              "runtimeMinutes": 172,
-              "sessions": [
-                {
-                  "id": "387238",
-                  "time": "19:00",
-                  "formats": [
-                    "IMAX",
-                    "70mm"
-                  ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=387238&a=0000000001&l=7420&m=the-odyssey&ss=False",
-                  "layoutKey": "387238",
-                  "seats": [
-                    "...AAAAAAAAAAAAAAAAAAAA......",
-                    "..AAAAAOOOOOOOOOOAOOAAAAA....",
-                    ".OOOOOOOOOOOOOOOOOOOOOOOOA...",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOAOO.",
-                    "..AAAOOOOOOOOOOOOOOOOOOOOAA..",
-                    ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOAOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "date": "2026-09-14",
           "movies": [
             {
@@ -16145,7 +16025,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
-                    ".AAAAAAAAAAOOOOOAAAAAAAAAA...",
+                    ".AAAAOAAAAAOOOOOAAAAAAAAAA...",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOAA.",
                     "..AOOOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
@@ -16767,7 +16647,7 @@
                     "AAAAAAAAAAAAAAOAAAAAAAAAAAAA.",
                     "..AAAAAAOOOOOOOOOOOOOAAAAAA..",
                     ".............................",
-                    "AOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -17179,7 +17059,7 @@
                     "AAAAAAAAAAOOOOOOOAAAAAAAAAAA.",
                     "..AAAAAAAOOOOOOOOOOAAAAAAAA..",
                     ".............................",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                    "OOAOOOOOOOOOOOOOOOOOOOOOOOAA.",
                     "OOAOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -17249,7 +17129,7 @@
                     "..AAAAOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
@@ -20153,7 +20033,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAAAAAOOAAAAAAAAAAAA..",
                     ".............................",
-                    "AAAAAAAAAOOOOOOOOOAAAAAAAAAA.",
+                    "AAAAAAAAAOOOOOOOOOOOAAAAAAAA.",
                     "AAAAAAAAAOOOOOOOOOOAAAAAAAAA.",
                     "AAAAAAAOOOOOOOOOOOOOOAAAAAAAA",
                     "AAAAAAAAAOOOOOOOOOOOAAAAAAAA.",
