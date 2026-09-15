@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-15T11:52:17.197Z",
+  "updatedAt": "2026-09-15T12:13:08.407Z",
   "mode": "quick",
   "theatres": [
     {
@@ -5517,8 +5517,8 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=539623&a=0000000001&l=7408&m=the-odyssey&ss=False",
                   "layoutKey": "539623",
                   "seats": [
-                    "....OOAAOOO?OOOOOOOOOOOOAA...",
-                    "...OOOOOOOOOOOOOOOOOOOOOOOO..",
+                    "....AAAAOOO?OOOOOOOOOOOOAA...",
+                    "...AAOOOOOOOOOOOOOOOOOOOOOO..",
                     "..OOAOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAOOOOOOOOOOOOOOOOOOAAA...",
@@ -5625,7 +5625,7 @@
                   "layoutKey": "539631",
                   "seats": [
                     "....AAAAAAA?AAAOAAAAAAAAAA...",
-                    "...OOOOOOOOOOOOOOOOOOOAAAAA..",
+                    "...OOOAAOOOOOOOOOOOOOOAAAAA..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..OOAOOOOOOOOOOOOOOOOOOOOO...",
@@ -5687,7 +5687,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAOOOOOOO?AAAAAAAAAAAA.",
                     "AAAAAAAAAAOOOOOOOOOOAAAAAAAAA",
-                    "..AAAAOOOOOOOOOOOOOOAAAAAA...",
+                    "..AAAAAAOOOOOOOOOOOOAAAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
@@ -7125,7 +7125,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
-                    "OOOOOOOAOOOOOOOOOOOOOOOOOAAAA",
+                    "OOOOAAAAOOOOOOOOOOOOOOOOOAAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
@@ -15188,7 +15188,7 @@
                     "...AAAAAAAAAAOOAAAAAAAA......",
                     "..AAAAAAAAAAOOOOOOOOAAAAA....",
                     ".OOAOOOOOOOOOOOOOOOOOAOOOO...",
-                    "OOOOOOOOOOOOOOOAOOOOOOOOAAOO.",
+                    "OOOOOOOOOOOOOOOAOOOOOOOOOOOO.",
                     "..AAOOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOAOOOOOOOOOOO.",
@@ -15451,7 +15451,7 @@
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
-                    "AAAAAAAAAAAOOOOOOOOAAAAAAAAA.",
+                    "AAAAAAAAAOOOOOOOOOOAAAAAAAAA.",
                     "..AAAOOOOOOOOAOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
