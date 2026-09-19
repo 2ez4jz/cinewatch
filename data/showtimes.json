@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T11:58:29.770Z",
+  "updatedAt": "2026-09-19T12:23:11.210Z",
   "mode": "quick",
   "theatres": [
     {
@@ -5006,7 +5006,7 @@
                   "layoutKey": "542436",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...AAAAAAOOOOOOOOOOOOAAAAAA..",
+                    "...AAAAAAOOOOOOOOOOAAAAAAAA..",
                     "..AAOOOOOOOOOOO?OOOOOOOOOOAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
@@ -5658,7 +5658,7 @@
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
                   ]
                 },
                 {
@@ -13848,8 +13848,8 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=389216&a=0000000001&l=7420&m=the-odyssey&ss=False",
                   "layoutKey": "389216",
                   "seats": [
-                    "...AAAAAAAAAAAAAAAAAAAA......",
-                    "..OOOAAAOOOOOOOOOOOOAAAAA....",
+                    "...AAAAAAAAAAOOOAAAAAAA......",
+                    "..AAAAAAOOOOOOOOOOOOAAAAA....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
@@ -14061,7 +14061,7 @@
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
@@ -15030,7 +15030,7 @@
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
-                    "AAAAAAAAAOOOOOOAAAAAAAAAAAAA.",
+                    "AAAAAAAAAOOOOOOOAAAAAAAAAAAA.",
                     "..AAAAOOOOOOOOOOOOOOOOAAAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
