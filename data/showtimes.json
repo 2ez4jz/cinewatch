@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T07:17:46.861Z",
-  "mode": "quick",
+  "updatedAt": "2026-09-20T07:22:33.604Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -5473,7 +5473,7 @@
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAOAAAAAAAAAAAA..",
-                    "..AAAAAAAOOOOOO?OOOOOOOAAAAA.",
+                    "..AAAAOAAOOOOOO?OOOOOOOAAAAA.",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -13723,7 +13723,7 @@
                   "layoutKey": "389227",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
-                    "..AAAAAAAAAAAAAAAAAAAAAAA....",
+                    "..AAAAAAAAAAAOAAAAAAAAAAA....",
                     ".AAAAOOOOOOOOOOOOOOOOOOOOA...",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
