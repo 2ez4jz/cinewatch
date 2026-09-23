@@ -1,6 +1,14 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { collectTheatreDates, emailHtml, emailSubject, findNewDates, mergeSeenDates } from "../scripts/notify.mjs";
+import {
+  collectRearSeatSnapshots,
+  collectTheatreDates,
+  emailHtml,
+  emailSubject,
+  findNewDates,
+  findRearSeatAlerts,
+  mergeSeenDates,
+} from "../scripts/notify.mjs";
 
 const data = {
   theatres: [{
@@ -43,4 +51,46 @@ test("multiple new dates are combined into one email", () => {
   assert.match(emailSubject(notifications), /2 个 IMAX 70mm 新日期/);
   assert.match(message, /2026-09-18/);
   assert.match(message, /2026-09-19/);
+});
+
+function seatData(rows) {
+  return {
+    theatres: [{
+      id: 7408,
+      shortName: "Vaughan",
+      auditoriums: { s1: { totalColumns: 4, rowLabels: ["A", "B", "C", "D"], seatTypes: ["SSSS", "SSSS", "SSSS", "SSSS"] } },
+      days: [{
+        date: "2026-09-25",
+        movies: [{ title: "The Odyssey", sessions: [{ id: "s1", time: "19:00", layoutKey: "s1", seats: rows }] }],
+      }],
+    }],
+  };
+}
+
+test("detects a newly refunded adjacent pair only in the rear half", () => {
+  const previous = seatData(["OOOO", "OOOO", "OOOO", "OOOO"]);
+  const current = seatData(["OAAO", "OOOO", "OAAO", "OOOO"]);
+  const state = { seatSnapshots: collectRearSeatSnapshots(previous) };
+  const alerts = findRearSeatAlerts(current, state);
+  assert.equal(alerts.length, 1);
+  assert.deepEqual(
+    { row: alerts[0].row, start: alerts[0].startColumn, end: alerts[0].endColumn, count: alerts[0].seatCount },
+    { row: "C", start: 2, end: 3, count: 2 },
+  );
+});
+
+test("does not repeat an adjacent pair that was already available", () => {
+  const previous = seatData(["OOOO", "OOOO", "OAAO", "OOOO"]);
+  const current = seatData(["OOOO", "OOOO", "OAAO", "OOOO"]);
+  const state = { seatSnapshots: collectRearSeatSnapshots(previous) };
+  assert.deepEqual(findRearSeatAlerts(current, state), []);
+});
+
+test("seat alert email includes showtime and rear row", () => {
+  const previous = seatData(["OOOO", "OOOO", "OOOO", "OOOO"]);
+  const current = seatData(["OOOO", "OOOO", "OAAO", "OOOO"]);
+  const alerts = findRearSeatAlerts(current, { seatSnapshots: collectRearSeatSnapshots(previous) });
+  assert.match(emailSubject([], alerts), /后区退票/);
+  assert.match(emailHtml([], alerts), /C 排/);
+  assert.match(emailHtml([], alerts), /19:00/);
 });
