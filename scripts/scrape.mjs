@@ -224,7 +224,12 @@ async function scrapeTheatre(theatre, existingTheatre, key) {
     }
     throw new Error(`${theatre.shortName}: every date request failed`);
   }
-  const days = results.filter(result => result.ok && result.movies.length).map(({ date, movies }) => ({ date, movies }));
+  const existingDays = new Map((existingTheatre?.days || []).map(day => [day.date, day]));
+  const days = results.flatMap(result => {
+    if (result.ok) return result.movies.length ? [{ date: result.date, movies: result.movies }] : [];
+    const previous = existingDays.get(result.date);
+    return previous ? [previous] : [];
+  });
   const auditoriums = await attachSeats(theatre, days, key);
   return { ...theatre, auditoriums, days };
 }

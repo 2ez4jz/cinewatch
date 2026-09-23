@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { collectTheatreDates, findNewDates, mergeSeenDates, telegramBatchMessage, telegramMessage } from "../scripts/notify.mjs";
+import { collectTheatreDates, emailHtml, emailSubject, findNewDates, mergeSeenDates } from "../scripts/notify.mjs";
 
 const data = {
   theatres: [{
@@ -27,8 +27,9 @@ test("mergeSeenDates never forgets dates missing from a partial scrape", () => {
   assert.deepEqual(mergeSeenDates(state, data), { "7408": ["2026-09-17", "2026-09-18", "2026-09-19"] });
 });
 
-test("telegram message includes the useful booking details", () => {
-  const message = telegramMessage({ theatre: data.theatres[0], day: data.theatres[0].days[1] });
+test("email includes the useful booking details", () => {
+  const notifications = findNewDates(data, { seenDates: { "7408": ["2026-09-18"] } });
+  const message = emailHtml(notifications);
   assert.match(message, /Vaughan/);
   assert.match(message, /2026-09-19/);
   assert.match(message, /The Odyssey/);
@@ -36,9 +37,10 @@ test("telegram message includes the useful booking details", () => {
   assert.match(message, /cinewatch/);
 });
 
-test("multiple new dates are combined into a single Telegram message", () => {
-  const message = telegramBatchMessage(findNewDates(data, { seenDates: {} }));
-  assert.match(message, /2 个新日期/);
+test("multiple new dates are combined into one email", () => {
+  const notifications = findNewDates(data, { seenDates: {} });
+  const message = emailHtml(notifications);
+  assert.match(emailSubject(notifications), /2 个 IMAX 70mm 新日期/);
   assert.match(message, /2026-09-18/);
   assert.match(message, /2026-09-19/);
 });

@@ -198,6 +198,41 @@ h1 em { color: var(--red); font-weight: 400; }
 .session-button span { display: block; margin-top: 4px; color: var(--muted); font-size: .7rem; }
 .session-button.has-seats span { color: var(--green); }
 
+.seat-preview {
+  position: fixed;
+  z-index: 20;
+  width: min(430px, calc(100vw - 20px));
+  padding: 14px 16px 16px;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  border: 1px solid #3a3f4d;
+  background: rgba(13, 15, 19, .98);
+  box-shadow: 0 18px 55px rgba(0,0,0,.72);
+  transform: translateY(4px);
+  transition: opacity .12s ease, transform .12s ease, visibility .12s;
+}
+
+.seat-preview.visible { visibility: visible; opacity: 1; transform: translateY(0); }
+.preview-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
+.preview-head strong { display: block; font-size: .86rem; }
+.preview-head span { color: var(--muted); font-size: .66rem; }
+.preview-head div span { display: block; margin-top: 2px; color: var(--green); }
+.preview-screen {
+  width: 58%;
+  margin: 15px auto 13px;
+  padding-top: 5px;
+  border-top: 2px solid #d9dce5;
+  border-radius: 50%;
+  color: #777d89;
+  font-size: .48rem;
+  letter-spacing: .2em;
+  text-align: center;
+}
+.preview-map { display: grid; gap: 2px; justify-content: center; overflow: hidden; }
+.preview-seat-row { display: grid; grid-template-columns: repeat(var(--columns), 6px); gap: 2px; }
+.preview-seat { width: 6px; height: 5px; border-radius: 2px 2px 1px 1px; }
+
 .state-card {
   padding: 54px 24px;
   border: 1px dashed var(--line);
@@ -247,6 +282,11 @@ h1 em { color: var(--red); font-weight: 400; }
 .seat.accessible { background: var(--blue); box-shadow: inset 0 0 0 2px rgba(255,255,255,.45); }
 .seat.unknown { background: #7d8492; }
 .seat.none { visibility: hidden; }
+.preview-seat.available { background: var(--green); }
+.preview-seat.occupied { background: var(--occupied); }
+.preview-seat.accessible { background: var(--blue); }
+.preview-seat.unknown { background: #7d8492; }
+.preview-seat.none { visibility: hidden; }
 
 .seat-stats, .legend {
   display: flex;

@@ -60,8 +60,9 @@ jobs:
         if: steps.refresh.outcome == 'success'
         continue-on-error: true
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          EMAIL_TO: museycyk@gmail.com
+          GMAIL_USERNAME: museycyk@gmail.com
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: node scripts/notify.mjs
       - name: Save refreshed data
         if: steps.refresh.outcome == 'success'

@@ -12,6 +12,10 @@ const seatStatsEl = document.querySelector("#seat-stats");
 const seatTitleEl = document.querySelector("#seat-title");
 const seatKickerEl = document.querySelector("#seat-kicker");
 const buyLinkEl = document.querySelector("#buy-link");
+const previewEl = document.querySelector("#seat-preview");
+const previewMapEl = document.querySelector("#preview-map");
+const previewTimeEl = document.querySelector("#preview-time");
+const previewStatsEl = document.querySelector("#preview-stats");
 
 let data = null;
 let selectedTheatreId = new URL(location.href).searchParams.get("theatre") || "7408";
@@ -47,6 +51,63 @@ function sessionSeatCounts(session) {
   return { available, occupied, unknown };
 }
 
+function seatClass(status, type) {
+  const accessible = (type === "W" || type === "C") && status === "A";
+  return accessible ? "accessible" : status === "A" ? "available" : status === "O" ? "occupied" : status === "?" ? "unknown" : "none";
+}
+
+function renderSeatGrid(container, layout, rows, { preview = false } = {}) {
+  container.replaceChildren();
+  rows.forEach((row, rowIndex) => {
+    const rowEl = document.createElement("div");
+    rowEl.className = preview ? "preview-seat-row" : "seat-row";
+    rowEl.style.setProperty("--columns", layout.totalColumns);
+    const labelText = layout.rowLabels?.[rowIndex] || "";
+    if (!preview) {
+      const label = document.createElement("span");
+      label.className = "row-label";
+      label.textContent = labelText;
+      rowEl.append(label);
+    }
+    const types = layout.seatTypes?.[rowIndex] || "";
+    for (let column = 0; column < layout.totalColumns; column++) {
+      const status = row[column] || ".";
+      const seat = document.createElement("span");
+      seat.className = `${preview ? "preview-seat" : "seat"} ${seatClass(status, types[column] || "S")}`;
+      if (!preview) seat.title = `${labelText}${column + 1} · ${status === "A" ? "可选" : status === "O" ? "已占" : "未知"}`;
+      rowEl.append(seat);
+    }
+    container.append(rowEl);
+  });
+}
+
+function hideSeatPreview() {
+  previewEl.classList.remove("visible");
+  previewEl.setAttribute("aria-hidden", "true");
+}
+
+function showSeatPreview(button, theatre, session) {
+  if (!matchMedia("(hover: hover)").matches) return;
+  const layout = theatre.auditoriums?.[session.layoutKey];
+  if (!layout || !session.seats) return;
+  const counts = sessionSeatCounts(session);
+  previewTimeEl.textContent = formatTime(session.time);
+  previewStatsEl.textContent = `${counts.available} 个可选 · ${counts.occupied} 个已占`;
+  renderSeatGrid(previewMapEl, layout, session.seats, { preview: true });
+  previewEl.classList.add("visible");
+  previewEl.setAttribute("aria-hidden", "false");
+
+  const anchor = button.getBoundingClientRect();
+  const popup = previewEl.getBoundingClientRect();
+  const gap = 10;
+  let left = anchor.left + anchor.width / 2 - popup.width / 2;
+  left = Math.max(gap, Math.min(left, innerWidth - popup.width - gap));
+  let top = anchor.bottom + gap;
+  if (top + popup.height > innerHeight - gap) top = anchor.top - popup.height - gap;
+  previewEl.style.left = `${left}px`;
+  previewEl.style.top = `${Math.max(gap, top)}px`;
+}
+
 function renderTabs() {
   theatreTabs.replaceChildren();
   for (const theatre of data.theatres) {
@@ -73,34 +134,11 @@ function openSeatMap(theatre, movie, day, session) {
   seatKickerEl.textContent = `${formatDate(day.date, { month: "short", day: "numeric", weekday: "short" })} · ${formatTime(session.time)} · ${theatre.shortName}`;
   seatTitleEl.textContent = movie.title;
   buyLinkEl.href = session.ticketUrl;
-  seatMapEl.replaceChildren();
-
   const counts = sessionSeatCounts(session);
   seatStatsEl.textContent = `${counts.available} 个可选座位 · ${counts.occupied} 个已占座位`;
+  renderSeatGrid(seatMapEl, layout, session.seats);
 
-  session.seats.forEach((row, rowIndex) => {
-    const rowEl = document.createElement("div");
-    rowEl.className = "seat-row";
-    rowEl.style.setProperty("--columns", layout.totalColumns);
-
-    const label = document.createElement("span");
-    label.className = "row-label";
-    label.textContent = layout.rowLabels?.[rowIndex] || "";
-    rowEl.append(label);
-
-    const types = layout.seatTypes?.[rowIndex] || "";
-    for (let column = 0; column < layout.totalColumns; column++) {
-      const status = row[column] || ".";
-      const type = types[column] || "S";
-      const seat = document.createElement("span");
-      const accessible = (type === "W" || type === "C") && status === "A";
-      seat.className = `seat ${accessible ? "accessible" : status === "A" ? "available" : status === "O" ? "occupied" : status === "?" ? "unknown" : "none"}`;
-      seat.title = `${label.textContent}${column + 1} · ${status === "A" ? "可选" : status === "O" ? "已占" : "未知"}`;
-      rowEl.append(seat);
-    }
-    seatMapEl.append(rowEl);
-  });
-
+  hideSeatPreview();
   dialog.showModal();
 }
 
@@ -140,8 +178,14 @@ function render() {
         const button = document.createElement("button");
         button.type = "button";
         button.className = `session-button ${session.seats ? "has-seats" : ""}`;
-        button.innerHTML = `<strong>${formatTime(session.time)}</strong><span>${session.seats ? `${counts.available} 个可选 · 查看座位` : "座位数据暂不可用"}</span>`;
-        if (session.seats) button.addEventListener("click", () => openSeatMap(theatre, movie, day, session));
+        button.innerHTML = `<strong>${formatTime(session.time)}</strong><span>${session.seats ? `${counts.available} 个可选 · 悬浮看座位` : "座位数据暂不可用"}</span>`;
+        if (session.seats) {
+          button.addEventListener("click", () => openSeatMap(theatre, movie, day, session));
+          button.addEventListener("mouseenter", () => showSeatPreview(button, theatre, session));
+          button.addEventListener("mouseleave", hideSeatPreview);
+          button.addEventListener("focus", () => showSeatPreview(button, theatre, session));
+          button.addEventListener("blur", hideSeatPreview);
+        }
         else button.addEventListener("click", () => window.open(session.ticketUrl, "_blank", "noopener"));
         sessions.append(button);
       }
@@ -178,6 +222,8 @@ document.querySelector("#close-dialog").addEventListener("click", () => dialog.c
 dialog.addEventListener("click", event => {
   if (event.target === dialog) dialog.close();
 });
+addEventListener("scroll", hideSeatPreview, { passive: true });
+addEventListener("resize", hideSeatPreview);
 
 loadData();
 setInterval(() => loadData({ quiet: true }), REFRESH_MS);
