@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-26T17:07:34.196Z",
-  "mode": "quick",
+  "updatedAt": "2026-09-26T17:22:33.055Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -4053,14 +4053,14 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=542464&a=0000000001&l=7408&m=the-odyssey&ss=False",
                   "layoutKey": "542464",
                   "seats": [
-                    "....OOOOOOO?OOOOAAAAAAAAAA...",
-                    "...OOOOOOOOOOOOOOOOOOOOOOOO..",
+                    "....OOOOOOO?AAAAOOAAAAAAAA...",
+                    "...OOOOOOOOOOOOOOOOOOOOAAAA..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOAOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOAAAAOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -4079,7 +4079,7 @@
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
-                    "..AAAAOOAOOOOOO?OOOOOOOAAAAA.",
+                    "..AAAAAAAOOOOOO?OOOOOOOAAAAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOAOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -4161,7 +4161,7 @@
                   "layoutKey": "542469",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...AAAAAAOOOOOOOOOOOAAAAAAA..",
+                    "...AAAAAAOOOOOOOOOAAAAAAAAA..",
                     "..AOOOOOOOOOOOO?OOOOOOOOOAAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
@@ -4400,7 +4400,7 @@
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAOOOOOAAAAAAAA..",
-                    "..AAAAAAOOOOOOO?OOOOOOOOAAAA.",
+                    "..AAAAOOOOOOOOO?OOOOOOOOAAAA.",
                     "AAAOOOOOOOOOOOOOOOOOOOOOAAAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -4507,7 +4507,7 @@
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAOOAAAAAAAAAA..",
-                    "..AAAAAAOOOOOOO?OOOOOOAAAAAA.",
+                    "..AAAAOOOOOOOOO?OOOOOOAAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -4588,7 +4588,7 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=531220&a=0000000001&l=7408&m=dune-part-3&ss=False",
                   "layoutKey": "531220",
                   "seats": [
-                    "....AAOOOOO?OOOOOOOOOOOOOO...",
+                    "....OOOOOOO?OOOOOOOOOOOOOO...",
                     "...OOAOOOOOOOOOOOOOOOOOAOOO..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -11278,8 +11278,8 @@
                   "layoutKey": "389242",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
-                    "..AAAAAAOOOOOOOAAOOAAOOOO....",
-                    ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
+                    "..AAAAAAOOOOOOOOAOOAAOOOO....",
+                    ".OOOOOOOOOOOOOOOOOOOOOOOOA...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
@@ -11301,7 +11301,7 @@
                   "layoutKey": "389243",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
-                    "..OOOOOOAAOOOOOAAAAAAAAAA....",
+                    "..AAAAAAAAOOOOOAAAAAAAAAA....",
                     ".AAAOOOOOOOOOOOOOOOOOOAAAA...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
@@ -11336,7 +11336,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAOOOAAAAAAAAAA....",
-                    ".AAAAOOOOOOOOOOOOOOOOOOOAA...",
+                    ".AAAAOOOOOOOOOOOOOOOOOOAAA...",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAOOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
