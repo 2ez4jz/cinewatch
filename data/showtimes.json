@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-30T08:58:35.678Z",
-  "mode": "quick",
+  "updatedAt": "2026-09-30T12:29:40.359Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -3550,7 +3550,7 @@
                   "layoutKey": "542479",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...OAOOOOOOOOOOOOOOOOOOAAAO..",
+                    "...OOOOOOOOOOOOOOOOOOOOAAAO..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOOAAA...",
@@ -3574,7 +3574,7 @@
                   "layoutKey": "542482",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...AAAAAAAOOAAOOOAAAAAAAAAA..",
+                    "...AAAAAAAOOAOOOOAAAAAAAAAA..",
                     "..AOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
@@ -3597,7 +3597,7 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=542481&a=0000000001&l=7408&m=the-odyssey&ss=False",
                   "layoutKey": "542481",
                   "seats": [
-                    "....AAAAAAA?OOOOOAAAAAAAAA...",
+                    "....OOOOAAA?OOOOOAAAAAAAAA...",
                     "...AAAOOOOOOOOOOOOOOOOOOOOA..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -3622,7 +3622,7 @@
                   "layoutKey": "542480",
                   "seats": [
                     "....AAAAAAA?AAOOOAAAAAAAAA...",
-                    "...AOOOOOOOOOOOOOOOOOOAAAAA..",
+                    "...OOOOOOOOOOOOOOOOOOOAAAAA..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
@@ -4622,7 +4622,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
-                    "AAAAAAAAAAAOOOOAAAAAAAAAAAAAA",
+                    "AAAAAAAAAAAOOOOOOOOOAAAAAAAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
@@ -5648,7 +5648,7 @@
                     "..AAAAAAAAAOOOOOOAAAAAAAAA...",
                     ".............................",
                     ".............................",
-                    "AAAAOOOOOOOOOOOOOOOOOOOAAAAAA",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAAAAAOOOOOOOOOOOOOOOOOOOOAAA",
                     "AAAAOOOOOOOOOOOOOOOOOOOOAAAAA",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOOOAA",
@@ -9921,7 +9921,7 @@
                   "layoutKey": "389258",
                   "seats": [
                     "...OOOOOAAAAAAAAAAAAAAA......",
-                    "..AAAOOOOOOOOOOOOOOOOOAAA....",
+                    "..OOAOOOOOOOOOOOOOOOOOAAA....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
@@ -9944,7 +9944,7 @@
                   "layoutKey": "389259",
                   "seats": [
                     "...AAAAAAAAAAAOAAAAAAAA......",
-                    "..AAAAAAAAOOOOOAAAOOOAAAO....",
+                    "..OAAAAAAAOOOOOAAAOOOAAAO....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAOOOOOOOOOOOOOOOOOOOOOAA..",
@@ -9991,7 +9991,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAOOOOOOOOOAAAAAAAA....",
-                    ".AAAAOOOOOOOOOOOOOOOOAAAAA...",
+                    ".AAAAOOOOOOOOOOOOOOOOOOOAA...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
