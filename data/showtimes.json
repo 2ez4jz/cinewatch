@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-30T12:29:40.359Z",
-  "mode": "deep",
+  "updatedAt": "2026-09-30T15:51:51.184Z",
+  "mode": "quick",
   "theatres": [
     {
       "id": 7408,
@@ -3402,38 +3402,6 @@
             "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
           ]
         },
-        "542479": {
-          "totalRows": 12,
-          "totalColumns": 29,
-          "rowLabels": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            null,
-            null,
-            "F",
-            "G",
-            "H",
-            "I",
-            "J"
-          ],
-          "seatTypes": [
-            "....SSSSSSSSSSSSSSSSSSSSSS...",
-            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
-            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
-            ".............................",
-            ".............................",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
-          ]
-        },
         "542480": {
           "totalRows": 12,
           "totalColumns": 29,
@@ -3540,30 +3508,6 @@
               "runtimeMinutes": 172,
               "sessions": [
                 {
-                  "id": "542479",
-                  "time": "10:45",
-                  "formats": [
-                    "IMAX",
-                    "70mm"
-                  ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=542479&a=0000000001&l=7408&m=the-odyssey&ss=False",
-                  "layoutKey": "542479",
-                  "seats": [
-                    "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...OOOOOOOOOOOOOOOOOOOOAAAO..",
-                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "..AAAAOOOOOOOOOOOOOOOOOAAA...",
-                    ".............................",
-                    ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
-                  ]
-                },
-                {
                   "id": "542482",
                   "time": "14:30",
                   "formats": [
@@ -3574,7 +3518,7 @@
                   "layoutKey": "542482",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...AAAAAAAOOAOOOOAAAAAAAAAA..",
+                    "...AAOAAAAOOOOOOOOOAAAAAAAA..",
                     "..AOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
@@ -3597,8 +3541,8 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=542481&a=0000000001&l=7408&m=the-odyssey&ss=False",
                   "layoutKey": "542481",
                   "seats": [
-                    "....OOOOAAA?OOOOOAAAAAAAAA...",
-                    "...AAAOOOOOOOOOOOOOOOOOOOOA..",
+                    "....AAAAAAO?OOOOOAAAAAAAAA...",
+                    "...OOOOOOOOOOOOOOOOOOOOOOOA..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAOOOOOOOOOOOOOOOOOOOAO...",
@@ -3622,7 +3566,7 @@
                   "layoutKey": "542480",
                   "seats": [
                     "....AAAAAAA?AAOOOAAAAAAAAA...",
-                    "...OOOOOOOOOOOOOOOOOOOAAAAA..",
+                    "...AOOOOOOOOOOOOOOOOOOOOAAA..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
@@ -3789,7 +3733,7 @@
                   "seats": [
                     "....OOOOOOO?OOOOOOOOOOOOOO...",
                     "...OOOOOOOOOOOOOOOOOOOOOOOO..",
-                    "..OOOOOOOOOOOOO?OOOOOOOOOOOA.",
+                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..OOOOOOOOOOOOOOOOOOOOOOOO...",
                     ".............................",
@@ -4670,7 +4614,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
-                    "AAAAAAAAAOOOOOOOOOOOOAAAAAAAA",
+                    "AAAAAAAAAAAAAAOOAAAAAAAAAAAAA",
                     "..AAAAAOOOOOOOOOOOOOOAAAAA...",
                     ".............................",
                     ".............................",
@@ -5479,7 +5423,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
                     "AAAAAAAAAAOOAAOOOOOAAAAAAAAAA",
-                    "..AAAAAAAOOOOOOOOOAAAAAAAA...",
+                    "..AAAAAAAOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
@@ -5568,7 +5512,7 @@
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOOAAAAA",
-                    "OOOAAOOOOOOOOOOOOOOOOOOOOAAOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOAAOO",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOAA."
                   ]
                 },
@@ -5591,7 +5535,7 @@
                     ".............................",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOOOAA",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOAAAOO",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOOOAOO",
                     "OOAAOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOO."
                   ]
@@ -5733,7 +5677,7 @@
                     ".............................",
                     "AAAAAAAOOOOOOOOOOOOOOOAAAAAAA",
                     "AAAOOOOOOOOOOOOOOOOOOOOOAAAAA",
-                    "AAAAAAOOOOOOOOOOOOOOOOOAAAAAA",
+                    "AAAAOOOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAOOOOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOOAAAA."
                   ]
@@ -9781,36 +9725,6 @@
             "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
           ]
         },
-        "389258": {
-          "totalRows": 11,
-          "totalColumns": 29,
-          "rowLabels": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            null,
-            "F",
-            "G",
-            "H",
-            "I",
-            "J"
-          ],
-          "seatTypes": [
-            "...SSSSSSSSSSSSSSSSSSSS......",
-            "..SSSSSSSSSSSSSSSSSSSSSSS....",
-            ".SSSSSSSSSSSSSSSSSSSSSSSSS...",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "..WWCSSSSSSSSSSSSSSSSSSSCWW..",
-            ".............................",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
-          ]
-        },
         "389259": {
           "totalRows": 11,
           "totalColumns": 29,
@@ -9911,29 +9825,6 @@
               "runtimeMinutes": 172,
               "sessions": [
                 {
-                  "id": "389258",
-                  "time": "11:00",
-                  "formats": [
-                    "IMAX",
-                    "70mm"
-                  ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=389258&a=0000000001&l=7420&m=the-odyssey&ss=False",
-                  "layoutKey": "389258",
-                  "seats": [
-                    "...OOOOOAAAAAAAAAAAAAAA......",
-                    "..OOAOOOOOOOOOOOOOOOOOAAA....",
-                    ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
-                    ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
-                  ]
-                },
-                {
                   "id": "389259",
                   "time": "15:00",
                   "formats": [
@@ -9944,7 +9835,7 @@
                   "layoutKey": "389259",
                   "seats": [
                     "...AAAAAAAAAAAOAAAAAAAA......",
-                    "..OAAAAAAAOOOOOAAAOOOAAAO....",
+                    "..OOAAAAAAOOOOOAAAOOOAAAO....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAOOOOOOOOOOOOOOOOOOOOOAA..",
@@ -9966,8 +9857,8 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=389261&a=0000000001&l=7420&m=the-odyssey&ss=False",
                   "layoutKey": "389261",
                   "seats": [
-                    "...AAAAOOOOOOOOOOAAAAAA......",
-                    "..AAAOOOOOOOOOOOOOOOOOOOO....",
+                    "...AAAAOOOOOOOOOOAAAAOO......",
+                    "..OOOOOOOOOOOOOAAOOOOOOOO....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAOOOOOOOOOOOOOOOOOOOOOAA..",
@@ -9991,7 +9882,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAOOOOOOOOOAAAAAAAA....",
-                    ".AAAAOOOOOOOOOOOOOOOOOOOAA...",
+                    ".AAAAOOOOOOOOOOOOOOOOOOOOA...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
@@ -10662,7 +10553,7 @@
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOAAOOOOOO"
+                    "OOOOOOOOOOOOOOOOOOOOOOAOOOOOO"
                   ]
                 }
               ]
@@ -10862,7 +10753,7 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
                     "AAAAAAAAAAAAOOOOAAAAAAAAAAAA.",
-                    "..AAAAAAOOOOOOOOOOOOOOOAAAA..",
+                    "..AAAAOOOOOOOOOOOOOOOOOAAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
