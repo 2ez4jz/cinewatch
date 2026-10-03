@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-03T20:12:24.061Z",
-  "mode": "quick",
+  "updatedAt": "2026-10-03T23:00:30.978Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -5440,7 +5440,7 @@
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOAA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
                   ]
                 },
@@ -5771,9 +5771,9 @@
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
-                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOA."
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOO."
                   ]
                 },
                 {
@@ -9759,7 +9759,7 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388020&a=0000000001&l=7420&m=dune-part-3&ss=False",
                   "layoutKey": "388020",
                   "seats": [
-                    "...AAAAAAAAAAAAAAAAAAAA......",
+                    "...AAAAAAAAAOOAAAAAAAAA......",
                     "..AAAAAAOOOOOOOOOOOOOOOAA....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOAO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -11333,7 +11333,7 @@
                     "AAAAAAAAAAAAOOOOAAAAAAAAAAAA.",
                     "..AAAAAAAAOOOOOOOOOOOOAAAAA..",
                     ".............................",
-                    "AAAAAOOOOOOOOOOOOOOOOOOAAAAA.",
+                    "AAAAAOOOOOOOOOOOOOOOOOOOOAAA.",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOAAA.",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
@@ -11497,7 +11497,7 @@
                     "OOOOOOOOOOOOOOOOOOOOOOOOAAAA.",
                     "OAAAOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOAAA"
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA"
                   ]
                 },
                 {
