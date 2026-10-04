@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-04T15:20:23.827Z",
-  "mode": "deep",
+  "updatedAt": "2026-10-04T18:21:05.285Z",
+  "mode": "quick",
   "theatres": [
     {
       "id": 7408,
@@ -4065,7 +4065,7 @@
                   "seats": [
                     "....AAAAAAA?AAAOAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
-                    "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
+                    "..AAAAAAAAAAAAO?AAAAAAAAAAAA.",
                     "AAAAAAAAAAOOAOOOOOOAAAAAAAAAA",
                     "..AAAAOOOOOOOOOOOOOOOAAAAA...",
                     ".............................",
@@ -5416,7 +5416,7 @@
                     "AAAAOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOOAAA",
                     "AAAAOOOOOOOOOOOOOOOOOOOOAAAAA",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOOOOAA",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOAA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOAA."
                   ]
                 },
@@ -5607,7 +5607,7 @@
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOAAA",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOOA",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOOOAA."
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOAA."
                   ]
                 },
                 {
@@ -9635,7 +9635,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAOAAAAAAAAAAAA....",
-                    ".AAAAOOAOOOOOOOOOOOOOOOOOO...",
+                    ".AAAOOOAOOOOOOOOOOOOOOOOOO...",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
@@ -11760,7 +11760,7 @@
                     "AAAAAAAOOOOOOOOOOOOOOAAAAAAA.",
                     "AAAAAAAOOOOOOOOOOOOOOOAAAAAAA",
                     "AAAAAAAOOOOOOOOOOOOOOAAAAAAA.",
-                    "AAAAAAAOOOOOOOOOOOOOOOOAAAAAA"
+                    "AAAAAOOOOOOOOOOOOOOOOOOAAAAAA"
                   ]
                 }
               ]
