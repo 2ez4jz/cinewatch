@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-06T23:59:02.526Z",
+  "updatedAt": "2026-10-07T05:46:19.780Z",
   "mode": "quick",
   "theatres": [
     {
@@ -3552,8 +3552,8 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=530759&a=0000000001&l=7408&m=dune-part-3&ss=False",
                   "layoutKey": "530759",
                   "seats": [
-                    "....OOOOOOO?OOOOOOOOOOOOOA...",
-                    "...OOOOOOOOOOOOOOOOOOOOOOOA..",
+                    "....OOOOOOO?OOOOOOOOOOOOOO...",
+                    "...OOOOOOOOOOOOOOOOOOOOOOOO..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..OOOOOOOOOOOOOOOOOOOOOOOO...",
@@ -3586,7 +3586,7 @@
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOAOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
                   ]
                 }
@@ -3935,7 +3935,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAOO?AAAAAAAAAAAA.",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOAAAAA",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
@@ -5164,7 +5164,7 @@
                     "..AAAAOOOOOOOOOOOOOOOAAAAA...",
                     ".............................",
                     ".............................",
-                    "OOAOOOOOOOOOOOOOOOOOOOOOOOOAA",
+                    "OOAOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOAOO",
@@ -5986,7 +5986,7 @@
                     "AAAAAAOOOOOOOOOOOOOOOOOOOAAOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOAAAAA",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOAAA",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOAAOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
                   ]
                 },
@@ -9763,7 +9763,7 @@
                     "..AAAAAAOOOOOOOOOOOOOOOAA....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOAO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "..AAOOOOOOOOO?OOOOOOOOOOOAA..",
+                    "..AAAOOOOOOOO?OOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -10610,7 +10610,7 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
                     "AAAAAAAAAAAAAOOAAAAAAAAAAAAA.",
-                    "..AAAAAOOOOOO?OOOOOOOOAAAAA..",
+                    "..AAAOOOOOOOO?OOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -10853,7 +10853,7 @@
                     "..AAAAAAAOOOO?OOOOOOOOOAAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "AOOOOOOOOOOOOOOOOOOOOOAAAOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
@@ -11861,7 +11861,7 @@
                     ".............................",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOOAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOOAAAA",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOOOOAA",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOAAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOAAAA"
                   ]
@@ -11893,7 +11893,7 @@
                     "AAAAAAAAAOOAAOOAAAAAAAAAAAAA.",
                     "..AAAAAAAAOOO?OOOOAAAAAAAAA..",
                     ".............................",
-                    "AAAAAOOOOOOOOOOOOOAOOOOAAAAA.",
+                    "AAAAAOOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOAA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
@@ -12000,7 +12000,7 @@
                     "AAAOOOOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOOOOOA"
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA"
                   ]
                 },
                 {
@@ -12044,8 +12044,8 @@
                     ".............................",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOAAA.",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOAAA.",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "AAAOOOOOOOOOOOOAAOOOOOOOOOAA.",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOOOO"
                   ]
                 },
@@ -12200,7 +12200,7 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
                     "AAAAAAAAAAAAAAOAAAAAAAAAAAAA.",
-                    "..AAAAAAAAAOO?OOOOOAAAAAAAA..",
+                    "..AAAAAAAOOOO?OOOOOAAAAAAAA..",
                     ".............................",
                     "AAAOOOOOOOOOOOOOOOOOOOOOAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOOAAAA.",
