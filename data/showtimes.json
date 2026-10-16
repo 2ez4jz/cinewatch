@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-16T19:54:38.282Z",
-  "mode": "quick",
+  "updatedAt": "2026-10-16T22:04:00.195Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -4562,7 +4562,7 @@
           "movies": [
             {
               "title": "Dune: Part 3",
-              "runtimeMinutes": 140,
+              "runtimeMinutes": 150,
               "sessions": [
                 {
                   "id": "540756",
@@ -4776,7 +4776,7 @@
           "movies": [
             {
               "title": "Dune: Part 3",
-              "runtimeMinutes": 140,
+              "runtimeMinutes": 150,
               "sessions": [
                 {
                   "id": "540764",
@@ -4946,7 +4946,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
-                    "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "AAAAAAAAAAAAAOOOAAAAAAAAAAAAA",
                     "..AAAAAAAAOOOOOOOOAAAAAAAA...",
                     ".............................",
                     ".............................",
@@ -9635,7 +9635,7 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAOAAAAAAAAAAAA....",
-                    ".AAAOOOAOOOOOOOOOOOOOAAAOO...",
+                    ".AAAOOOOOOOOOOOOOOOOOAAAOO...",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
@@ -11520,7 +11520,7 @@
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAAAAOAOOOOOOOOOOOOOOOOAAAAA.",
-                    "AAAAAOOOOOOOOOOOOOOOOOAAAAAAA"
+                    "AAAAAOOOOOOOOOOOOOOOOOOAAAAAA"
                   ]
                 }
               ]
@@ -11859,7 +11859,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAOOOOOOOOOOAAAAAAAA..",
                     ".............................",
-                    "AAAAAOOOOOOOOOOOOOOOOOOOOOAA.",
+                    "AAAOOOOOOOOOOOOOOOOOOOOOOOAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOOOAA",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOAAA.",
@@ -11875,7 +11875,7 @@
           "movies": [
             {
               "title": "Dune: Part 3",
-              "runtimeMinutes": 140,
+              "runtimeMinutes": 150,
               "sessions": [
                 {
                   "id": "388105",
@@ -11978,7 +11978,7 @@
           "movies": [
             {
               "title": "Dune: Part 3",
-              "runtimeMinutes": 140,
+              "runtimeMinutes": 150,
               "sessions": [
                 {
                   "id": "388110",
@@ -12306,7 +12306,7 @@
                     "..AAAAAAAAAAAOOOAAAAAAAAAAA..",
                     ".............................",
                     "AAAAAAAAOOOOOOOOOOOOAAAAAAAA.",
-                    "AAAAAAAAOOOOOOOOOOOOOOOAAAAA.",
+                    "AAAAAAOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAAAAOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOOAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOOOOAAAAA"
