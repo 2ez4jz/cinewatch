@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-17T14:11:12.891Z",
-  "mode": "deep",
+  "updatedAt": "2026-10-17T16:23:01.261Z",
+  "mode": "quick",
   "theatres": [
     {
       "id": 7408,
@@ -3637,7 +3637,7 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=531222&a=0000000001&l=7408&m=dune-part-3&ss=False",
                   "layoutKey": "531222",
                   "seats": [
-                    "....OOOOOOA?AOOOOAAOOOOOOO...",
+                    "....OOOOOOA?AOOOOOOOOOOOOO...",
                     "...OAOOOOOOOOOOOOOOOAOOOOOO..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -4877,11 +4877,11 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
                     "AAAAAAAAAAAAOOOOAAAAAAAAAAAAA",
-                    "..AAAAAAAOOOOOOOOOAAAAAAAA...",
+                    "..AAAAAAAOOOOOOOOOOAAAAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOAA",
-                    "AOOOOOAOOOOOOOOOOOOOOOOOOOOOO",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOO?OOOOOO?OOOOOOOO."
@@ -4929,7 +4929,7 @@
                     ".............................",
                     ".............................",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAAA",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOOAAOO",
+                    "AAAAOOOOAAOOOOOOOOOOOOOOOAAOO",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "OOAOOOOOOOOO?OOOOOO?OOOOOOOA."
@@ -5916,7 +5916,7 @@
                     "AAAAAAAOOOOOOOOOOOOOOOAAAAAAA",
                     "AAAAAAOOOOOOOOOOOOOOOOAAAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOAAAA",
-                    "AAAAAOOOOOOOOOOOOOOOOOAAAAAAA",
+                    "AAAAAOOOOOOOOOOOOOOOOOOOOOAAA",
                     "AAAAAAOOOOOO?OOOOOO?OOAAAAAA."
                   ]
                 },
