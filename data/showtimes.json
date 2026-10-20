@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-20T15:02:00.577Z",
-  "mode": "deep",
+  "updatedAt": "2026-10-20T17:57:59.867Z",
+  "mode": "quick",
   "theatres": [
     {
       "id": 7408,
@@ -3344,7 +3344,7 @@
           "date": "2026-12-14",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -3355,7 +3355,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540719&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540719&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "seatEligible": false
                 }
               ]
@@ -3366,7 +3366,7 @@
           "date": "2026-12-15",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -3377,7 +3377,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540720&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540720&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "seatEligible": false
                 }
               ]
@@ -3388,7 +3388,7 @@
           "date": "2026-12-17",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -3398,7 +3398,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=541300&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=541300&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "541300",
                   "seats": [
                     "....AAAAAAA?AOOAAAAAAAAAAA...",
@@ -3422,7 +3422,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=530758&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=530758&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "530758",
                   "seats": [
                     "....OOOOOOO?OOOOOOOOOOOOOO...",
@@ -3446,7 +3446,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=531220&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=531220&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "seatEligible": false
                 }
               ]
@@ -3457,7 +3457,7 @@
           "date": "2026-12-18",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -3467,7 +3467,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540721&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540721&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540721",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -3491,7 +3491,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540722&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540722&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540722",
                   "seats": [
                     "....AAAAAAA?AAOOOOAAAAAAAA...",
@@ -3515,7 +3515,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=530759&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=530759&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "530759",
                   "seats": [
                     "....OOOOOOO?OOOOOOOOOOOOOO...",
@@ -3539,7 +3539,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=531221&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=531221&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "531221",
                   "seats": [
                     "....OOOOAOO?OOOOOOOOOOAOOO...",
@@ -3564,7 +3564,7 @@
           "date": "2026-12-19",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -3574,7 +3574,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540724&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540724&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540724",
                   "seats": [
                     "....AAAAAAA?OAAAAAAAAAAAAA...",
@@ -3598,7 +3598,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540723&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540723&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540723",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -3622,7 +3622,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=530760&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=530760&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "seatEligible": false
                 },
                 {
@@ -3632,7 +3632,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=531222&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=531222&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "531222",
                   "seats": [
                     "....OOOOOOA?AOOOOAAOOOOOOO...",
@@ -3657,7 +3657,7 @@
           "date": "2026-12-20",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -3667,7 +3667,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540725&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540725&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540725",
                   "seats": [
                     "....AAAAAAA?OOOOOOOAAAAAAA...",
@@ -3691,7 +3691,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540726&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540726&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540726",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -3715,7 +3715,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=530761&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=530761&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "530761",
                   "seats": [
                     "....OOOOOOO?OOOOOOOOOOOOOO...",
@@ -3739,7 +3739,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=531223&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=531223&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "531223",
                   "seats": [
                     "....OOOOAAO?OOOOOOOOOAOAAA...",
@@ -3764,7 +3764,7 @@
           "date": "2026-12-21",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -3774,7 +3774,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540728&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540728&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540728",
                   "seats": [
                     "....AAAAAAA?OOOOAAAAAAAAAA...",
@@ -3798,7 +3798,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540727&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540727&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540727",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -3822,12 +3822,12 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540729&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540729&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540729",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
-                    "..AAAAAOOOOOOOO?OOOOOOAAAAAA.",
+                    "..AAAAOOOOOOOOO?OOOOOOAAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -3846,7 +3846,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540730&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540730&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540730",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -3856,7 +3856,7 @@
                     "..AAAAAOOOOOOOOOOOOOOAAAAA...",
                     ".............................",
                     ".............................",
-                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -3871,7 +3871,7 @@
           "date": "2026-12-22",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -3881,7 +3881,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540734&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540734&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540734",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -3905,7 +3905,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540733&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540733&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540733",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -3929,7 +3929,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540732&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540732&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540732",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -3953,7 +3953,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540731&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540731&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540731",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -3978,7 +3978,7 @@
           "date": "2026-12-23",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -3988,7 +3988,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540735&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540735&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540735",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4012,7 +4012,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540736&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540736&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540736",
                   "seats": [
                     "....AAAAAAA?AAAOAAAAAAAAAA...",
@@ -4036,7 +4036,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540737&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540737&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540737",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4060,7 +4060,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540738&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540738&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540738",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4085,7 +4085,7 @@
           "date": "2026-12-24",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -4095,7 +4095,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540742&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540742&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540742",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4119,7 +4119,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540741&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540741&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540741",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4143,7 +4143,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540740&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540740&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540740",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4167,7 +4167,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540739&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540739&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540739",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4192,7 +4192,7 @@
           "date": "2026-12-25",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -4202,7 +4202,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540743&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540743&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540743",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4226,7 +4226,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540744&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540744&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540744",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4250,7 +4250,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540745&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540745&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540745",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4274,7 +4274,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540746&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540746&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540746",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4299,7 +4299,7 @@
           "date": "2026-12-26",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -4309,7 +4309,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540750&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540750&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540750",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4333,7 +4333,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540749&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540749&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540749",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4357,7 +4357,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540748&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540748&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540748",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4381,7 +4381,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540747&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540747&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540747",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4406,7 +4406,7 @@
           "date": "2026-12-27",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -4416,7 +4416,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540751&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540751&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540751",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4440,7 +4440,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540752&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540752&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540752",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4464,12 +4464,12 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540753&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540753&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540753",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
-                    "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
+                    "..AAAAAAAAAOAAO?AAAAAAAAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAAA",
                     "..AAAAAOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -4488,7 +4488,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540754&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540754&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540754",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4513,7 +4513,7 @@
           "date": "2026-12-28",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -4523,7 +4523,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540756&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540756&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540756",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4547,7 +4547,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540755&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540755&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540755",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4571,7 +4571,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540757&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540757&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540757",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4595,7 +4595,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540758&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540758&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540758",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4620,7 +4620,7 @@
           "date": "2026-12-29",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -4630,7 +4630,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540761&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540761&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540761",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4654,13 +4654,13 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540762&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540762&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540762",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
-                    "AAAAAAAAOOOOOOOOOOOAAAAAAAAAA",
+                    "AAAAAAAAOOOOOOOOOOOOOOAAAAAAA",
                     "..AAAAAAOOOOOOOOOOOOOAAAAA...",
                     ".............................",
                     ".............................",
@@ -4678,7 +4678,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540760&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540760&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540760",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4702,7 +4702,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540759&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540759&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540759",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4727,7 +4727,7 @@
           "date": "2026-12-30",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -4737,7 +4737,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540764&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540764&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540764",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4761,7 +4761,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540763&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540763&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540763",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4785,7 +4785,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540765&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540765&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540765",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4809,7 +4809,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540766&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540766&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540766",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4834,7 +4834,7 @@
           "date": "2026-12-31",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -4844,7 +4844,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540769&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540769&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540769",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4868,7 +4868,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540770&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540770&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540770",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4892,7 +4892,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540768&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540768&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540768",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4916,7 +4916,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540767&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540767&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540767",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4941,7 +4941,7 @@
           "date": "2027-01-01",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -4951,7 +4951,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540772&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540772&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540772",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4975,7 +4975,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540771&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540771&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540771",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -4999,7 +4999,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540773&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540773&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540773",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5023,7 +5023,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540774&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540774&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540774",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5048,7 +5048,7 @@
           "date": "2027-01-02",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -5058,7 +5058,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540777&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540777&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540777",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5082,7 +5082,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540778&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540778&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540778",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5106,7 +5106,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540776&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540776&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540776",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5130,7 +5130,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540775&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540775&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540775",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5155,7 +5155,7 @@
           "date": "2027-01-03",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -5165,7 +5165,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540780&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540780&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540780",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5189,7 +5189,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540779&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540779&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540779",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5213,7 +5213,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540781&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540781&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540781",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5237,7 +5237,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540782&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540782&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540782",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5248,7 +5248,7 @@
                     ".............................",
                     ".............................",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "AAAAAOOOOOOOOOOOOOOOOOOOOOAAA",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOAAA",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
@@ -5262,7 +5262,7 @@
           "date": "2027-01-04",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -5272,7 +5272,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540783&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540783&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540783",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5296,7 +5296,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540784&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540784&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540784",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5320,7 +5320,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540785&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540785&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540785",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5345,7 +5345,7 @@
           "date": "2027-01-05",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -5355,7 +5355,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540788&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540788&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540788",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5379,7 +5379,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540787&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540787&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540787",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5403,7 +5403,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540786&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540786&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540786",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5428,7 +5428,7 @@
           "date": "2027-01-06",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -5438,7 +5438,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540789&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540789&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540789",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5462,7 +5462,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540790&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540790&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540790",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5486,7 +5486,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540791&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540791&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540791",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5511,7 +5511,7 @@
           "date": "2027-01-07",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -5521,7 +5521,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540794&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540794&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540794",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5545,7 +5545,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540793&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540793&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540793",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5569,7 +5569,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540792&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540792&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540792",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5594,7 +5594,7 @@
           "date": "2027-01-08",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -5604,7 +5604,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540807&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540807&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540807",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5628,7 +5628,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540810&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540810&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540810",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5652,7 +5652,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540809&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540809&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540809",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5677,7 +5677,7 @@
           "date": "2027-01-09",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -5687,7 +5687,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540813&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540813&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540813",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5711,7 +5711,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540814&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540814&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540814",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5735,7 +5735,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540811&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540811&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540811",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5759,7 +5759,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540812&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540812&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540812",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5784,7 +5784,7 @@
           "date": "2027-01-10",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -5794,7 +5794,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540816&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540816&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540816",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5818,7 +5818,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540815&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540815&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540815",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5842,7 +5842,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540818&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540818&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540818",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5866,7 +5866,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540817&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540817&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540817",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5891,7 +5891,7 @@
           "date": "2027-01-11",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -5901,7 +5901,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540795&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540795&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540795",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5925,7 +5925,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540796&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540796&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540796",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5949,7 +5949,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540797&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540797&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540797",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -5961,7 +5961,7 @@
                     ".............................",
                     "AAAAAAOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAAAAAOOOOOOOOOOOOOOOOOOOAAAA",
-                    "AAAAAAOOOOOOOOOOOOOOOOOOAAAAA",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOAAAAA",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAOOOOOOOO?OOOOO??OOOOAAAA."
                   ]
@@ -5974,7 +5974,7 @@
           "date": "2027-01-12",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -5984,7 +5984,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540800&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540800&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540800",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -6008,7 +6008,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540799&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540799&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540799",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -6019,7 +6019,7 @@
                     ".............................",
                     ".............................",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "AAOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
@@ -6032,7 +6032,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540798&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540798&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540798",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -6057,7 +6057,7 @@
           "date": "2027-01-13",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -6067,7 +6067,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540801&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540801&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540801",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -6091,7 +6091,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540802&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540802&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540802",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -6115,7 +6115,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540803&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540803&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540803",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -6140,7 +6140,7 @@
           "date": "2027-01-14",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -6150,7 +6150,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540806&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540806&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540806",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -6174,7 +6174,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540805&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540805&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540805",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
@@ -6198,14 +6198,14 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540804&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540804&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540804",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "..AAAAAAAAAAOOOOAAAAAAAAAA...",
+                    "..AAAAAAAAAAOOOOOOAAAAAAAA...",
                     ".............................",
                     ".............................",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAAA",
@@ -9504,7 +9504,7 @@
           "date": "2026-12-14",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -9514,7 +9514,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388123&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388123&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388123",
                   "seats": [
                     "...OOOOOOOOOOOOOOOOOOOO......",
@@ -9538,7 +9538,7 @@
           "date": "2026-12-15",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -9548,7 +9548,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388124&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388124&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388124",
                   "seats": [
                     "...OOOOOOOOOOOOOOOOOOOO......",
@@ -9572,7 +9572,7 @@
           "date": "2026-12-17",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -9582,7 +9582,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388016&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388016&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388016",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9605,7 +9605,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388017&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388017&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388017",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9628,7 +9628,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388018&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388018&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388018",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9652,7 +9652,7 @@
           "date": "2026-12-18",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -9662,13 +9662,13 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388022&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388022&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388022",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAOOAAAAAAAAAA....",
                     ".AAAOOOOOOOOOOOOOOOOAAAAAA...",
-                    "AAAOOOOAOOOOOOOOOOOOOOOOAAAA.",
+                    "AAAOOOOOOOOOOOOOOOOOOOOOAAAA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -9685,7 +9685,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388021&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388021&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388021",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9708,7 +9708,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388020&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388020&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388020",
                   "seats": [
                     "...AAAAAAAAAOOAAAAAAAAA......",
@@ -9731,7 +9731,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388019&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388019&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388019",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9755,7 +9755,7 @@
           "date": "2026-12-19",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -9765,7 +9765,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388023&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388023&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388023",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9788,12 +9788,12 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388026&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388026&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388026",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAOOOAAAAAAAAA....",
-                    ".AAAAAOOOOOOOOOOOOOOOAAAAA...",
+                    ".AOOOOOOOOOOOOOOOOOOOOOOAA...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
@@ -9811,7 +9811,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388025&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388025&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388025",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9834,7 +9834,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388024&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388024&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388024",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9858,7 +9858,7 @@
           "date": "2026-12-20",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -9868,7 +9868,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388030&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388030&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388030",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9891,7 +9891,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388027&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388027&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388027",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9914,7 +9914,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388028&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388028&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388028",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9937,7 +9937,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388029&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388029&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388029",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9961,7 +9961,7 @@
           "date": "2026-12-21",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -9971,7 +9971,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388031&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388031&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388031",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -9994,12 +9994,12 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388034&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388034&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388034",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
-                    ".AAAAAAAAOOOOOOOOAAAAAAAAA...",
+                    ".AAAAAAAAOOOOOOOOOOOOAAAAA...",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOOOO.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
@@ -10017,7 +10017,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388033&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388033&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388033",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10040,7 +10040,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388032&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388032&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388032",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10064,7 +10064,7 @@
           "date": "2026-12-22",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -10074,7 +10074,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388038&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388038&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388038",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10097,7 +10097,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388035&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388035&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388035",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10120,7 +10120,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388036&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388036&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388036",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10143,7 +10143,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388037&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388037&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388037",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10167,7 +10167,7 @@
           "date": "2026-12-23",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -10177,7 +10177,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388042&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388042&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388042",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10200,7 +10200,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388039&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388039&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388039",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10223,7 +10223,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388040&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388040&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388040",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10246,7 +10246,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388041&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388041&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388041",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10270,7 +10270,7 @@
           "date": "2026-12-24",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -10280,7 +10280,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388043&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388043&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388043",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10303,7 +10303,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388046&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388046&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388046",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10326,7 +10326,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388045&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388045&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388045",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10349,7 +10349,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388044&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388044&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388044",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10373,7 +10373,7 @@
           "date": "2026-12-25",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -10383,7 +10383,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388049&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388049&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388049",
                   "seats": [
                     "...AAAAAAAAAAAOAAAAAAAA......",
@@ -10406,7 +10406,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388048&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388048&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388048",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10429,7 +10429,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388047&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388047&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388047",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10439,7 +10439,7 @@
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
@@ -10452,7 +10452,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388050&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388050&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388050",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10476,7 +10476,7 @@
           "date": "2026-12-26",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -10486,14 +10486,14 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388052&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388052&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388052",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
                     "AAAAAAAAAAAOOOOOOAAAAAAAAAAA.",
-                    "..AAAAAOOOOOOOOOOOOOOOOAAAA..",
+                    "..AAAOOOOOOOOOOOOOOOOOOAAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -10509,7 +10509,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388053&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388053&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388053",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10532,7 +10532,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388054&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388054&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388054",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10555,7 +10555,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388051&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388051&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388051",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10579,7 +10579,7 @@
           "date": "2026-12-27",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -10589,7 +10589,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388056&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388056&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388056",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10612,7 +10612,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388057&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388057&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388057",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10635,7 +10635,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388058&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388058&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388058",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10658,7 +10658,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388055&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388055&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388055",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10682,7 +10682,7 @@
           "date": "2026-12-28",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -10692,7 +10692,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388059&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388059&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388059",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10715,7 +10715,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388062&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388062&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388062",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10725,7 +10725,7 @@
                     "..AAAOOOOOOOOOOOOOOOOAAAAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
@@ -10738,7 +10738,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388061&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388061&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388061",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10761,7 +10761,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388060&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388060&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388060",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10785,7 +10785,7 @@
           "date": "2026-12-29",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -10795,7 +10795,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388066&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388066&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388066",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10818,7 +10818,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388063&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388063&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388063",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10841,7 +10841,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388064&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388064&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388064",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10864,7 +10864,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388065&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388065&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388065",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10888,7 +10888,7 @@
           "date": "2026-12-30",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -10898,7 +10898,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388070&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388070&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388070",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10921,7 +10921,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388067&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388067&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388067",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10944,7 +10944,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388068&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388068&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388068",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10967,7 +10967,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388069&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388069&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388069",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -10991,7 +10991,7 @@
           "date": "2026-12-31",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -11001,7 +11001,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388074&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388074&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388074",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11024,7 +11024,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388071&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388071&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388071",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11047,7 +11047,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388072&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388072&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388072",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11070,7 +11070,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388073&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388073&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388073",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11094,7 +11094,7 @@
           "date": "2027-01-01",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -11104,7 +11104,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388077&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388077&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388077",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11127,7 +11127,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388076&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388076&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388076",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11150,7 +11150,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388075&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388075&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388075",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11173,7 +11173,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388078&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388078&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388078",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11197,7 +11197,7 @@
           "date": "2027-01-02",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -11207,7 +11207,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388080&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388080&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388080",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11230,7 +11230,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388081&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388081&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388081",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11253,7 +11253,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388082&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388082&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388082",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11276,7 +11276,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388079&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388079&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388079",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11300,7 +11300,7 @@
           "date": "2027-01-03",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -11310,7 +11310,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388084&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388084&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388084",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11333,7 +11333,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388085&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388085&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388085",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11356,7 +11356,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388086&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388086&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388086",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11379,7 +11379,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388083&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388083&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388083",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11403,7 +11403,7 @@
           "date": "2027-01-04",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -11413,7 +11413,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388087&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388087&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388087",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11436,7 +11436,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388088&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388088&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388088",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11459,7 +11459,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388089&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388089&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388089",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11470,7 +11470,7 @@
                     ".............................",
                     "AAAAAAAOOOOOOOOOOOOOOAAAAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAA.",
-                    "AAAAAOOOOOOOOOOOOOOOOOOOOAAAA",
+                    "AAAOOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAAAAOAOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAAOOOOOOOOOOOOOOOOOOAAAAAA"
                   ]
@@ -11483,7 +11483,7 @@
           "date": "2027-01-05",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -11493,7 +11493,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388092&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388092&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388092",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11516,7 +11516,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388091&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388091&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388091",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11539,7 +11539,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388090&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388090&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388090",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11563,7 +11563,7 @@
           "date": "2027-01-06",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -11573,7 +11573,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388095&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388095&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388095",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11596,7 +11596,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388094&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388094&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388094",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11619,7 +11619,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388093&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388093&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388093",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11643,7 +11643,7 @@
           "date": "2027-01-07",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -11653,7 +11653,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388098&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388098&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388098",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11663,7 +11663,7 @@
                     "..AAAAAAAAAAOOOOOAAAAAAAAAA..",
                     ".............................",
                     "AAAAAAAAOOOOOOOOOOOOOAAAAAAA.",
-                    "AAAAAAAAOOOOOOOOOOOOOOOAAAAA.",
+                    "AAAAAAOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOOAAAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOAAAAAA.",
                     "AAAAAOOOOOOOOOOOOOOOOOAAAAAOO"
@@ -11676,7 +11676,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388097&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388097&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388097",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11699,7 +11699,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388096&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388096&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388096",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11723,7 +11723,7 @@
           "date": "2027-01-08",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -11733,7 +11733,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388100&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388100&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388100",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11756,7 +11756,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388101&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388101&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388101",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11779,7 +11779,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388102&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388102&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388102",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11802,7 +11802,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388099&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388099&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388099",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11826,7 +11826,7 @@
           "date": "2027-01-09",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -11836,7 +11836,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388105&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388105&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388105",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11859,7 +11859,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388104&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388104&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388104",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11882,7 +11882,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388103&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388103&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388103",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11905,7 +11905,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388106&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388106&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388106",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11929,7 +11929,7 @@
           "date": "2027-01-10",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -11939,7 +11939,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388110&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388110&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388110",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11962,7 +11962,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388109&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388109&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388109",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -11985,7 +11985,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388108&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388108&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388108",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12008,7 +12008,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388107&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388107&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388107",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12032,7 +12032,7 @@
           "date": "2027-01-11",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -12042,7 +12042,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388112&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388112&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388112",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12065,7 +12065,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388111&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388111&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388111",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12088,7 +12088,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388113&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388113&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388113",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12112,7 +12112,7 @@
           "date": "2027-01-12",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -12122,7 +12122,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388115&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388115&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388115",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12131,7 +12131,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAAAOOOOOAAAAAAAAAAA..",
                     ".............................",
-                    "AAAAAAAAAOOOOOOOOOOAAAAAAAAA.",
+                    "OOAAAAAAAOOOOOOOOOOAAAAAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAOOOOOOOOOOOOOOOOOOAAAAAA.",
@@ -12145,7 +12145,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388116&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388116&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388116",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12168,7 +12168,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388114&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388114&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388114",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12192,7 +12192,7 @@
           "date": "2027-01-13",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -12202,7 +12202,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388118&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388118&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388118",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12225,7 +12225,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388119&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388119&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388119",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12248,7 +12248,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388117&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388117&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388117",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12272,7 +12272,7 @@
           "date": "2027-01-14",
           "movies": [
             {
-              "title": "Dune: Part 3",
+              "title": "Dune: Part Three",
               "runtimeMinutes": 150,
               "sessions": [
                 {
@@ -12282,7 +12282,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388121&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388121&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388121",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12305,7 +12305,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388122&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388122&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388122",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
@@ -12328,7 +12328,7 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388120&a=0000000001&l=7420&m=dune-part-3&ss=False",
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388120&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388120",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
