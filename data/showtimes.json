@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-20T02:19:28.211Z",
-  "mode": "quick",
+  "updatedAt": "2026-10-20T04:44:05.463Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -3341,6 +3341,50 @@
       },
       "days": [
         {
+          "date": "2026-12-14",
+          "movies": [
+            {
+              "title": "Dune: Part 3",
+              "runtimeMinutes": 150,
+              "sessions": [
+                {
+                  "id": "540719",
+                  "time": "18:00",
+                  "formats": [
+                    "Early Access",
+                    "IMAX",
+                    "70mm"
+                  ],
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540719&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "seatEligible": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-12-15",
+          "movies": [
+            {
+              "title": "Dune: Part 3",
+              "runtimeMinutes": 150,
+              "sessions": [
+                {
+                  "id": "540720",
+                  "time": "18:00",
+                  "formats": [
+                    "Early Access",
+                    "IMAX",
+                    "70mm"
+                  ],
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540720&a=0000000001&l=7408&m=dune-part-3&ss=False",
+                  "seatEligible": false
+                }
+              ]
+            }
+          ]
+        },
+        {
           "date": "2026-12-17",
           "movies": [
             {
@@ -3843,7 +3887,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAOOO?OOAAAAAAAAAA.",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOOAAAA",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
@@ -4806,7 +4850,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
-                    "AAAAAAAAAAAAAOOOAAAAAAAAAAAAA",
+                    "AAAAAAAAAAAOOOOOAAAAAAAAAAAAA",
                     "..AAAAAAAOOOOOOOOOOAAAAAAA...",
                     ".............................",
                     ".............................",
@@ -11346,7 +11390,7 @@
                     ".............................",
                     "AAAAAOOOOOOOOOOOOOOOOAAAAAAA.",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOAAA.",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOAAAAA",
+                    "AAAOOOOOOOOOOOOOOOOOOOOOOOAAA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOAAA"
                   ]
@@ -11481,7 +11525,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAOOOOOOOOOOOOAAAAAAA..",
                     ".............................",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
@@ -12294,8 +12338,8 @@
                     "..AAAAAAAAAAOOOAAAAAAAAAAAA..",
                     ".............................",
                     "AAAAAAAOOOOOOOOOOOOOOAAAAAAA.",
-                    "AAAAAAAOOOOOOOOOOOOOOOAAAAAA.",
-                    "AAAAAAOOOOOOOOOOOOOOOOOOAAAAA",
+                    "AAAAAOOOOOOOOOOOOOOOOOAAAAAA.",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAAOOOOOOOOOOOOOOOOOOAAAAAA"
                   ]
