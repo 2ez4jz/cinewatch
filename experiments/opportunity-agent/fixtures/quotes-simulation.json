@@ -1,0 +1,392 @@
+{
+  "version": 1,
+  "simulation": true,
+  "complete": true,
+  "observedAt": "2026-10-23T13:00:00.000Z",
+  "offers": [
+    {
+      "id": "simulation-a",
+      "title": "SIMULATION Card A — fictional prices",
+      "item": {
+        "scryfallId": "SIM-CARD-001",
+        "language": "en",
+        "finish": "nonfoil",
+        "condition": "NM"
+      },
+      "quantity": 1,
+      "buy": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED seller",
+        "currency": "CAD",
+        "unitCents": 2000,
+        "available": 1,
+        "stockConfirmed": true,
+        "evidence": "fixture:buy-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "sell": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED cash buyer",
+        "currency": "CAD",
+        "unitCents": 6000,
+        "wanted": 1,
+        "kind": "confirmed_cash_quote",
+        "confirmed": true,
+        "evidence": "fixture:cash-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "costs": {
+        "taxBps": 1300,
+        "buyShippingCents": 0,
+        "sellShippingCents": 0,
+        "transportCents": 400,
+        "laborCents": 500,
+        "lossReserveCents": 300,
+        "sellFeeBps": 0,
+        "sellFeeFixedCents": 0,
+        "leadHours": 2
+      }
+    },
+    {
+      "id": "simulation-credit",
+      "title": "SIMULATION Card A — fictional prices",
+      "item": {
+        "scryfallId": "SIM-CARD-001",
+        "language": "en",
+        "finish": "nonfoil",
+        "condition": "NM"
+      },
+      "quantity": 1,
+      "buy": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED seller",
+        "currency": "CAD",
+        "unitCents": 2000,
+        "available": 1,
+        "stockConfirmed": true,
+        "evidence": "fixture:buy-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "sell": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED cash buyer",
+        "currency": "CAD",
+        "unitCents": 6000,
+        "wanted": 1,
+        "kind": "store_credit",
+        "confirmed": true,
+        "evidence": "fixture:cash-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "costs": {
+        "taxBps": 1300,
+        "buyShippingCents": 0,
+        "sellShippingCents": 0,
+        "transportCents": 400,
+        "laborCents": 500,
+        "lossReserveCents": 300,
+        "sellFeeBps": 0,
+        "sellFeeFixedCents": 0,
+        "leadHours": 2
+      }
+    },
+    {
+      "id": "simulation-foil",
+      "title": "SIMULATION Card A — fictional prices",
+      "item": {
+        "scryfallId": "SIM-CARD-001",
+        "language": "en",
+        "finish": "nonfoil",
+        "condition": "NM"
+      },
+      "quantity": 1,
+      "buy": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED seller",
+        "currency": "CAD",
+        "unitCents": 2000,
+        "available": 1,
+        "stockConfirmed": true,
+        "evidence": "fixture:buy-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "sell": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "foil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED cash buyer",
+        "currency": "CAD",
+        "unitCents": 6000,
+        "wanted": 1,
+        "kind": "confirmed_cash_quote",
+        "confirmed": true,
+        "evidence": "fixture:cash-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "costs": {
+        "taxBps": 1300,
+        "buyShippingCents": 0,
+        "sellShippingCents": 0,
+        "transportCents": 400,
+        "laborCents": 500,
+        "lossReserveCents": 300,
+        "sellFeeBps": 0,
+        "sellFeeFixedCents": 0,
+        "leadHours": 2
+      }
+    },
+    {
+      "id": "simulation-costs",
+      "title": "SIMULATION Card A — fictional prices",
+      "item": {
+        "scryfallId": "SIM-CARD-001",
+        "language": "en",
+        "finish": "nonfoil",
+        "condition": "NM"
+      },
+      "quantity": 1,
+      "buy": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED seller",
+        "currency": "CAD",
+        "unitCents": 2000,
+        "available": 1,
+        "stockConfirmed": true,
+        "evidence": "fixture:buy-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "sell": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED cash buyer",
+        "currency": "CAD",
+        "unitCents": 6000,
+        "wanted": 1,
+        "kind": "confirmed_cash_quote",
+        "confirmed": true,
+        "evidence": "fixture:cash-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "costs": {
+        "taxBps": 1300,
+        "buyShippingCents": 2500,
+        "sellShippingCents": 0,
+        "transportCents": 400,
+        "laborCents": 500,
+        "lossReserveCents": 300,
+        "sellFeeBps": 0,
+        "sellFeeFixedCents": 0,
+        "leadHours": 2
+      }
+    },
+    {
+      "id": "simulation-stale",
+      "title": "SIMULATION Card A — fictional prices",
+      "item": {
+        "scryfallId": "SIM-CARD-001",
+        "language": "en",
+        "finish": "nonfoil",
+        "condition": "NM"
+      },
+      "quantity": 1,
+      "buy": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED seller",
+        "currency": "CAD",
+        "unitCents": 2000,
+        "available": 1,
+        "stockConfirmed": true,
+        "evidence": "fixture:buy-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "sell": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED cash buyer",
+        "currency": "CAD",
+        "unitCents": 6000,
+        "wanted": 1,
+        "kind": "confirmed_cash_quote",
+        "confirmed": true,
+        "evidence": "fixture:cash-a",
+        "observedAt": "2026-10-20T00:00:00Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "costs": {
+        "taxBps": 1300,
+        "buyShippingCents": 0,
+        "sellShippingCents": 0,
+        "transportCents": 400,
+        "laborCents": 500,
+        "lossReserveCents": 300,
+        "sellFeeBps": 0,
+        "sellFeeFixedCents": 0,
+        "leadHours": 2
+      }
+    },
+    {
+      "id": "simulation-no-demand",
+      "title": "SIMULATION Card A — fictional prices",
+      "item": {
+        "scryfallId": "SIM-CARD-001",
+        "language": "en",
+        "finish": "nonfoil",
+        "condition": "NM"
+      },
+      "quantity": 1,
+      "buy": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED seller",
+        "currency": "CAD",
+        "unitCents": 2000,
+        "available": 1,
+        "stockConfirmed": true,
+        "evidence": "fixture:buy-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "sell": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED cash buyer",
+        "currency": "CAD",
+        "unitCents": 6000,
+        "wanted": 0,
+        "kind": "confirmed_cash_quote",
+        "confirmed": true,
+        "evidence": "fixture:cash-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "costs": {
+        "taxBps": 1300,
+        "buyShippingCents": 0,
+        "sellShippingCents": 0,
+        "transportCents": 400,
+        "laborCents": 500,
+        "lossReserveCents": 300,
+        "sellFeeBps": 0,
+        "sellFeeFixedCents": 0,
+        "leadHours": 2
+      }
+    },
+    {
+      "id": "simulation-unknown-cost",
+      "title": "SIMULATION Card A — fictional prices",
+      "item": {
+        "scryfallId": "SIM-CARD-001",
+        "language": "en",
+        "finish": "nonfoil",
+        "condition": "NM"
+      },
+      "quantity": 1,
+      "buy": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED seller",
+        "currency": "CAD",
+        "unitCents": 2000,
+        "available": 1,
+        "stockConfirmed": true,
+        "evidence": "fixture:buy-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "sell": {
+        "item": {
+          "scryfallId": "SIM-CARD-001",
+          "language": "en",
+          "finish": "nonfoil",
+          "condition": "NM"
+        },
+        "vendor": "SIMULATED cash buyer",
+        "currency": "CAD",
+        "unitCents": 6000,
+        "wanted": 1,
+        "kind": "confirmed_cash_quote",
+        "confirmed": true,
+        "evidence": "fixture:cash-a",
+        "observedAt": "2026-10-23T13:00:00.000Z",
+        "validUntil": "2026-10-25T00:00:00Z"
+      },
+      "costs": {
+        "taxBps": 1300,
+        "buyShippingCents": 0,
+        "sellShippingCents": 0,
+        "laborCents": 500,
+        "lossReserveCents": 300,
+        "sellFeeBps": 0,
+        "sellFeeFixedCents": 0,
+        "leadHours": 2
+      }
+    }
+  ]
+}
