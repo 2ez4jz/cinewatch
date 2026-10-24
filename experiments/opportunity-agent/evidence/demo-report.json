@@ -1,0 +1,494 @@
+{
+  "simulation": true,
+  "realTransactions": 0,
+  "finalEvents": 2,
+  "delivered": 2,
+  "incompleteRejectedWithoutStateLoss": true,
+  "results": [
+    {
+      "step": 0,
+      "at": "2026-10-23T12:00:00.000Z",
+      "baseline": true,
+      "created": 0,
+      "eligible": 0,
+      "pending": 0,
+      "delivered": 0,
+      "assessments": [
+        {
+          "id": "simulation-a",
+          "eligible": false,
+          "reasons": [
+            "net_below_threshold",
+            "roi_below_threshold"
+          ],
+          "capitalCents": 6050,
+          "netCents": -850,
+          "roiBps": -1405
+        },
+        {
+          "id": "simulation-credit",
+          "eligible": false,
+          "reasons": [
+            "no_confirmed_cash_exit"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-foil",
+          "eligible": false,
+          "reasons": [
+            "item_mismatch:finish"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-costs",
+          "eligible": false,
+          "reasons": [
+            "net_below_threshold",
+            "roi_below_threshold"
+          ],
+          "capitalCents": 5485,
+          "netCents": -285,
+          "roiBps": -520
+        },
+        {
+          "id": "simulation-stale",
+          "eligible": false,
+          "reasons": [
+            "stale_or_expiring_quote"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-no-demand",
+          "eligible": false,
+          "reasons": [
+            "insufficient_quantity"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-unknown-cost",
+          "eligible": false,
+          "reasons": [
+            "missing_cost:transportCents"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        }
+      ]
+    },
+    {
+      "step": 1,
+      "at": "2026-10-23T13:00:00.000Z",
+      "baseline": false,
+      "created": 1,
+      "eligible": 1,
+      "pending": 1,
+      "delivered": 0,
+      "assessments": [
+        {
+          "id": "simulation-a",
+          "eligible": true,
+          "reasons": [],
+          "capitalCents": 2660,
+          "netCents": 2540,
+          "roiBps": 9548
+        },
+        {
+          "id": "simulation-credit",
+          "eligible": false,
+          "reasons": [
+            "no_confirmed_cash_exit"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-foil",
+          "eligible": false,
+          "reasons": [
+            "item_mismatch:finish"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-costs",
+          "eligible": false,
+          "reasons": [
+            "net_below_threshold",
+            "roi_below_threshold"
+          ],
+          "capitalCents": 5485,
+          "netCents": -285,
+          "roiBps": -520
+        },
+        {
+          "id": "simulation-stale",
+          "eligible": false,
+          "reasons": [
+            "stale_or_expiring_quote"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-no-demand",
+          "eligible": false,
+          "reasons": [
+            "insufficient_quantity"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-unknown-cost",
+          "eligible": false,
+          "reasons": [
+            "missing_cost:transportCents"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        }
+      ]
+    },
+    {
+      "step": 2,
+      "at": "2026-10-23T14:00:00.000Z",
+      "baseline": false,
+      "created": 0,
+      "eligible": 1,
+      "pending": 0,
+      "delivered": 1,
+      "assessments": [
+        {
+          "id": "simulation-a",
+          "eligible": true,
+          "reasons": [],
+          "capitalCents": 2660,
+          "netCents": 2540,
+          "roiBps": 9548
+        },
+        {
+          "id": "simulation-credit",
+          "eligible": false,
+          "reasons": [
+            "no_confirmed_cash_exit"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-foil",
+          "eligible": false,
+          "reasons": [
+            "item_mismatch:finish"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-costs",
+          "eligible": false,
+          "reasons": [
+            "net_below_threshold",
+            "roi_below_threshold"
+          ],
+          "capitalCents": 5485,
+          "netCents": -285,
+          "roiBps": -520
+        },
+        {
+          "id": "simulation-stale",
+          "eligible": false,
+          "reasons": [
+            "stale_or_expiring_quote"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-no-demand",
+          "eligible": false,
+          "reasons": [
+            "insufficient_quantity"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-unknown-cost",
+          "eligible": false,
+          "reasons": [
+            "missing_cost:transportCents"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        }
+      ]
+    },
+    {
+      "step": 3,
+      "at": "2026-10-23T15:00:00.000Z",
+      "baseline": false,
+      "created": 0,
+      "eligible": 1,
+      "pending": 0,
+      "delivered": 1,
+      "assessments": [
+        {
+          "id": "simulation-a",
+          "eligible": true,
+          "reasons": [],
+          "capitalCents": 2660,
+          "netCents": 2540,
+          "roiBps": 9548
+        },
+        {
+          "id": "simulation-credit",
+          "eligible": false,
+          "reasons": [
+            "no_confirmed_cash_exit"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-foil",
+          "eligible": false,
+          "reasons": [
+            "item_mismatch:finish"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-costs",
+          "eligible": false,
+          "reasons": [
+            "net_below_threshold",
+            "roi_below_threshold"
+          ],
+          "capitalCents": 5485,
+          "netCents": -285,
+          "roiBps": -520
+        },
+        {
+          "id": "simulation-stale",
+          "eligible": false,
+          "reasons": [
+            "stale_or_expiring_quote"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-no-demand",
+          "eligible": false,
+          "reasons": [
+            "insufficient_quantity"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-unknown-cost",
+          "eligible": false,
+          "reasons": [
+            "missing_cost:transportCents"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        }
+      ]
+    },
+    {
+      "step": 4,
+      "at": "2026-10-23T16:00:00.000Z",
+      "baseline": false,
+      "created": 0,
+      "eligible": 0,
+      "pending": 0,
+      "delivered": 1,
+      "assessments": [
+        {
+          "id": "simulation-a",
+          "eligible": false,
+          "reasons": [
+            "stock_unconfirmed"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-credit",
+          "eligible": false,
+          "reasons": [
+            "no_confirmed_cash_exit"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-foil",
+          "eligible": false,
+          "reasons": [
+            "item_mismatch:finish"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-costs",
+          "eligible": false,
+          "reasons": [
+            "net_below_threshold",
+            "roi_below_threshold"
+          ],
+          "capitalCents": 5485,
+          "netCents": -285,
+          "roiBps": -520
+        },
+        {
+          "id": "simulation-stale",
+          "eligible": false,
+          "reasons": [
+            "stale_or_expiring_quote"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-no-demand",
+          "eligible": false,
+          "reasons": [
+            "insufficient_quantity"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-unknown-cost",
+          "eligible": false,
+          "reasons": [
+            "missing_cost:transportCents"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        }
+      ]
+    },
+    {
+      "step": 5,
+      "at": "2026-10-23T17:00:00.000Z",
+      "baseline": false,
+      "created": 1,
+      "eligible": 1,
+      "pending": 0,
+      "delivered": 2,
+      "assessments": [
+        {
+          "id": "simulation-a",
+          "eligible": true,
+          "reasons": [],
+          "capitalCents": 2660,
+          "netCents": 2540,
+          "roiBps": 9548
+        },
+        {
+          "id": "simulation-credit",
+          "eligible": false,
+          "reasons": [
+            "no_confirmed_cash_exit"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-foil",
+          "eligible": false,
+          "reasons": [
+            "item_mismatch:finish"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-costs",
+          "eligible": false,
+          "reasons": [
+            "net_below_threshold",
+            "roi_below_threshold"
+          ],
+          "capitalCents": 5485,
+          "netCents": -285,
+          "roiBps": -520
+        },
+        {
+          "id": "simulation-stale",
+          "eligible": false,
+          "reasons": [
+            "stale_or_expiring_quote"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-no-demand",
+          "eligible": false,
+          "reasons": [
+            "insufficient_quantity"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        },
+        {
+          "id": "simulation-unknown-cost",
+          "eligible": false,
+          "reasons": [
+            "missing_cost:transportCents"
+          ],
+          "capitalCents": null,
+          "netCents": null,
+          "roiBps": null
+        }
+      ]
+    }
+  ]
+}

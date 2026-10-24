@@ -1,0 +1,29 @@
+{
+  "checkedOn": "2026-10-23",
+  "timezone": "America/New_York",
+  "environment": "Current executor; one direct request per URL; no bypass",
+  "results": [
+    {
+      "url": "https://api.scryfall.com/cards/named?exact=Sol%20Ring&set=cmm",
+      "status": 200,
+      "purpose": "initial reachability; production adapter uses exact set/collector paths"
+    },
+    {
+      "url": "https://scryfall.com/docs/api",
+      "status": 200
+    },
+    {
+      "url": "https://gcsurplus.ca/robots.txt",
+      "status": 503
+    },
+    {
+      "url": "https://gcsurplus.ca/mn-eng.cfm?snc=tc",
+      "status": 503
+    },
+    {
+      "url": "https://gcsurplus.ca/mn-eng.cfm?hpcs=7000&sc=ach-shop&snc=wfsav&vndsld=0",
+      "status": 503
+    }
+  ],
+  "scope": "Observed access results only; does not establish global availability or permission for automated collection."
+}
