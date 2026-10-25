@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-25T16:11:06.588Z",
-  "mode": "deep",
+  "updatedAt": "2026-10-25T17:35:58.080Z",
+  "mode": "quick",
   "theatres": [
     {
       "id": 7408,
@@ -9511,6 +9511,7 @@
                   "id": "388123",
                   "time": "18:00",
                   "formats": [
+                    "Early Access",
                     "IMAX",
                     "70mm"
                   ],
@@ -9545,6 +9546,7 @@
                   "id": "388124",
                   "time": "18:00",
                   "formats": [
+                    "Early Access",
                     "IMAX",
                     "70mm"
                   ],
@@ -11133,7 +11135,7 @@
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
-                    "AAAAAAAAAAAAOOAAAAAAAAAAAAAA.",
+                    "AAAAAAAAAAAAOOOOOAAAAAAAAAAA.",
                     "..AAAAAAOOOOOOOOOOOOAAAAAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -12155,7 +12157,7 @@
                     "..AAAAAAAOOOOOOOOOOAAAAAAAA..",
                     ".............................",
                     "AAAOOOOOOOOOOOOOOOOOOOOOAAAA.",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOAAAA.",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOOOAA.",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOAAA"
