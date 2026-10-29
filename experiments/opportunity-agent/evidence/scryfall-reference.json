@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "fetchedAt": "2026-10-23T04:30:56.970Z",
+  "requests": 0,
+  "cards": [
+    {
+      "fetchedAt": "2026-10-23T04:30:21.109Z",
+      "source": "https://api.scryfall.com/cards/cmm/410",
+      "scryfallId": "46ca0b66-a000-4483-b916-f5b89e710244",
+      "name": "Sol Ring",
+      "set": "cmm",
+      "collectorNumber": "410",
+      "language": "en",
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "prices": {
+        "usd": "2.02",
+        "usd_foil": "4.00",
+        "usd_etched": null,
+        "eur": "1.14",
+        "eur_foil": "2.87",
+        "tix": "0.04"
+      },
+      "priceType": "daily_reference_only",
+      "executable": false,
+      "priceUpdatedAt": null,
+      "warning": "Fetch time is not price-update time. Do not use reference prices as cash exit quotes."
+    },
+    {
+      "fetchedAt": "2026-10-23T04:30:21.109Z",
+      "source": "https://api.scryfall.com/cards/cmm/388",
+      "scryfallId": "e77a8ac1-f40d-423e-a0b3-0a8e236a6c1e",
+      "name": "Hammer of Nazahn",
+      "set": "cmm",
+      "collectorNumber": "388",
+      "language": "en",
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "prices": {
+        "usd": "14.00",
+        "usd_foil": "17.56",
+        "usd_etched": null,
+        "eur": "9.81",
+        "eur_foil": "16.08",
+        "tix": "0.49"
+      },
+      "priceType": "daily_reference_only",
+      "executable": false,
+      "priceUpdatedAt": null,
+      "warning": "Fetch time is not price-update time. Do not use reference prices as cash exit quotes."
+    },
+    {
+      "fetchedAt": "2026-10-23T04:30:21.109Z",
+      "source": "https://api.scryfall.com/cards/cmm/396",
+      "scryfallId": "d7183700-6941-4a3d-a581-4f33bea795e9",
+      "name": "Jeweled Lotus",
+      "set": "cmm",
+      "collectorNumber": "396",
+      "language": "en",
+      "finishes": [
+        "nonfoil",
+        "foil"
+      ],
+      "prices": {
+        "usd": "40.77",
+        "usd_foil": "77.51",
+        "usd_etched": null,
+        "eur": "37.12",
+        "eur_foil": "72.51",
+        "tix": "4.46"
+      },
+      "priceType": "daily_reference_only",
+      "executable": false,
+      "priceUpdatedAt": null,
+      "warning": "Fetch time is not price-update time. Do not use reference prices as cash exit quotes."
+    }
+  ],
+  "executableOpportunities": 0,
+  "note": "Live official API identity/reference evidence only. Last run used cached responses; initial acquisition made 3 successful requests. No executable buy or sell quote."
+}
