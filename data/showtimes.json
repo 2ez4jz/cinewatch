@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-02T09:53:03.985Z",
-  "mode": "quick",
+  "updatedAt": "2026-11-02T18:16:48.610Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -3545,7 +3545,7 @@
                     "....OOOOAOO?OOOOOOOOOOAOOO...",
                     "...AAOOOOOOOOOOOOOOOOOOOAOO..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOAAO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..OOOOOOOOOOOOOOOOOOOOOAAO...",
                     ".............................",
                     ".............................",
@@ -3694,7 +3694,7 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540726&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540726",
                   "seats": [
-                    "....AAAAAAA?AAAAAAAAAAAAAA...",
+                    "....AAAAAAA?AAOOAAAAAAAAAA...",
                     "...AAAOOOOOOOOOOOOOOOOOOOOO..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -3933,7 +3933,7 @@
                   "layoutKey": "540732",
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
-                    "...AAAAAAAAAAAAAAAAAAAAAAAA..",
+                    "...AAAAAAAAAAOOOOAAAAAAAAAA..",
                     "..AAAAOOOOOOOOO?OOOOOOOAAAOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOAOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
@@ -3993,7 +3993,7 @@
                   "seats": [
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
-                    "..AAAAAAAAAAOOO?AAAAAAAAAAAA.",
+                    "..AAAAAAAAAAOOO?OOAAAAAAAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -5071,7 +5071,7 @@
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOAOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
                   ]
                 },
@@ -5828,7 +5828,7 @@
                     "..AAAAAOOOOOOOOOOOOOOAAAAA...",
                     ".............................",
                     ".............................",
-                    "AAOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
@@ -5998,7 +5998,7 @@
                     "AAAAOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "OAAOOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOAAA",
-                    "OAAAOOOOOOOO?OOOOO??OOOOAAAA."
+                    "OAAAOOOOOOOO?OOOOO??OOOOOAAA."
                   ]
                 },
                 {
@@ -6102,7 +6102,7 @@
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOAA",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOOAAAA",
+                    "AAAOOOOOOOOOOOOOOOOOOOOOAAAAA",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOAAA",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "AAOOOOOOOOOO?OOOOO??OOOOOOOO."
@@ -11473,7 +11473,7 @@
                     "AAAAAAAOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOAAAA",
-                    "AAAAAOOOOOOOOOOOOOOOOOOOOAAA.",
+                    "AAAOOOOOOOOOOOOOOOOOOOOOOAAA.",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOAAAA"
                   ]
                 }
@@ -11632,7 +11632,7 @@
                     ".............................",
                     "AAAAAAOOOOOOOOOOOOOOOOAAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOAAAAAA.",
-                    "AAAAAOOOOOOOOOOOOOOOOOOAAAAAA",
+                    "AAAAOOOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAAA"
                   ]
@@ -11768,7 +11768,7 @@
                     "..AAAAAAAAOOOOOOOAAAAAAAAAA..",
                     ".............................",
                     "AAAAAAOOOOOOOOOOOOOOOOOOAAAA.",
-                    "AAAAAAAOOOOOOOOOOOOOOOOOAAAA.",
+                    "AAAAAOOOOOOOOOOOOOOOOOOOAAAA.",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOOAAA"
