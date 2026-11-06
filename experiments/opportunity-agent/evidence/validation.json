@@ -1,0 +1,110 @@
+{
+  "checkedAt": "2026-10-23T04:35:02.600119+00:00",
+  "baseCommit": "fa8d5396b3a02e06fc76a9a79f81338a8909c179",
+  "productionFilesCompared": 16,
+  "productionFilesChanged": 0,
+  "checks": {
+    "originalTests": 11,
+    "experimentTests": 19,
+    "totalTests": 30,
+    "pass": 30,
+    "fail": 0,
+    "originalSyntaxCheck": "passed",
+    "experimentSyntaxCheck": "passed",
+    "liveReferenceFirstRun": {
+      "httpRequests": 3,
+      "cards": 3,
+      "actionableCashQuotes": 0
+    },
+    "liveReferenceSecondRun": {
+      "httpRequests": 0,
+      "cards": 3
+    },
+    "cinemaReadOnlyReplay": {
+      "theatreDateRecords": 62,
+      "firstScanEvents": 0,
+      "repeatEvents": 0
+    },
+    "cardCliSimulation": {
+      "baselineEvents": 0,
+      "changedQuoteEvents": 1,
+      "repeatEvents": 0
+    },
+    "offlineDemo": {
+      "frames": 6,
+      "uniqueEvents": 2,
+      "localNotificationWrites": 2,
+      "simulatedSinkFailures": 1,
+      "realTransactions": 0
+    },
+    "externalEmailsSent": 0,
+    "productionWorkflowsChanged": 0,
+    "newScheduledJobs": 0
+  },
+  "protectedFiles": [
+    {
+      "path": ".env.example",
+      "sha256": "733a5ae688aedd079023858062015b912805f8ed85643789421afafee502350b"
+    },
+    {
+      "path": ".github/workflows/pages.yml",
+      "sha256": "d5959ef6cab1f5efdbb491b53d69da27a85a2a14d968ec573f38a768e34efed8"
+    },
+    {
+      "path": ".github/workflows/scrape.yml",
+      "sha256": "68a1c3945f2464ee93d318fe20b94b72afeb87928733f6a796ad2a0d130b5f73"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "6274e831f8f704a3c2a11379922b3fd770f88c5411f39b8c102faa5bd84c484a"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "b2f73c064c575ca2fe0e749ade58a79459e1267c04ae996658682fec91f254bb"
+    },
+    {
+      "path": "README.md",
+      "sha256": "6cbcb6e7953805f2e5e55eadea9b085bdd3d4d17941db26bd531238efa18363e"
+    },
+    {
+      "path": "app.js",
+      "sha256": "0b2410a8e5638f9b7d67472526c992d161123509be2067e40331bdaef9a4cf13"
+    },
+    {
+      "path": "data/notification-state.json",
+      "sha256": "c53e615cc4fa3d7d7bb337d37c2ee10bd92ffdeedd5c810323fb8887707b0144"
+    },
+    {
+      "path": "data/showtimes.json",
+      "sha256": "479cc5ce805c3f58c5b15b2b0b05d0768b54776579496e42ab6a3304f889a678"
+    },
+    {
+      "path": "index.html",
+      "sha256": "2a3503162d07e909d2ce28d46ec3755f2608cb67abbe9dbec61d5ce310441887"
+    },
+    {
+      "path": "package.json",
+      "sha256": "0b2e0c3dc4beccacce897ea1847120908389993768f1f93a0f5ddd30330e2963"
+    },
+    {
+      "path": "scripts/notify.mjs",
+      "sha256": "e0320f59d2bf679153b1e35059bd8e435987d3cb508088a6b388540dded6ec37"
+    },
+    {
+      "path": "scripts/scrape.mjs",
+      "sha256": "163aa218b164cdb48f859be3e553c3593f1ec9032df4279ddcc00165bd747334"
+    },
+    {
+      "path": "style.css",
+      "sha256": "2e76df4df99b40b0aa717ef200977dd5591bd092cd75d2b3ed18e3ec3b3ea5b0"
+    },
+    {
+      "path": "tests/notify.test.mjs",
+      "sha256": "dfb8d03a67dc973db9f3ee0bfd0d37dbdcb6f79d8e0965095125cef2198eb26b"
+    },
+    {
+      "path": "tests/scrape.test.mjs",
+      "sha256": "95c7b7f43a51a8e7ccea1c27b70cba90df29cb61417e8afcce72607e232f64ad"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+TAP version 13
+# Subtest: cost gate includes tax, transport, labor and risk reserve, using integer cents
+ok 1 - cost gate includes tax, transport, labor and risk reserve, using integer cents
+  ---
+  duration_ms: 2.700113
+  type: 'test'
+  ...
+# Subtest: blocks store credit, wrong finish, fees, stale quotes, no demand and unknown costs
+ok 2 - blocks store credit, wrong finish, fees, stale quotes, no demand and unknown costs
+  ---
+  duration_ms: 2.111556
+  type: 'test'
+  ...
+# Subtest: rejects mismatched printing/language/condition, currency, budget and expiring exit
+ok 3 - rejects mismatched printing/language/condition, currency, budget and expiring exit
+  ---
+  duration_ms: 0.783217
+  type: 'test'
+  ...
+# Subtest: real mode cannot treat fixtures or Scryfall reference data as quote evidence
+ok 4 - real mode cannot treat fixtures or Scryfall reference data as quote evidence
+  ---
+  duration_ms: 0.726803
+  type: 'test'
+  ...
+# Subtest: initializes quietly even with an existing profitable candidate
+ok 5 - initializes quietly even with an existing profitable candidate
+  ---
+  duration_ms: 1.128123
+  type: 'test'
+  ...
+# Subtest: new opportunity creates one event; repeated snapshot does not repeat
+ok 6 - new opportunity creates one event; repeated snapshot does not repeat
+  ---
+  duration_ms: 2.734477
+  type: 'test'
+  ...
+# Subtest: notification failure survives JSON restart; success is delivered only once
+ok 7 - notification failure survives JSON restart; success is delivered only once
+  ---
+  duration_ms: 1.570544
+  type: 'test'
+  ...
+# Subtest: a pending quote is cancelled if it expires before retry
+ok 8 - a pending quote is cancelled if it expires before retry
+  ---
+  duration_ms: 0.97844
+  type: 'test'
+  ...
+# Subtest: changed pending quote replaces old notice with current economics
+ok 9 - changed pending quote replaces old notice with current economics
+  ---
+  duration_ms: 1.072928
+  type: 'test'
+  ...
+# Subtest: already-delivered candidates remain quiet during small price changes
+ok 10 - already-delivered candidates remain quiet during small price changes
+  ---
+  duration_ms: 0.921001
+  type: 'test'
+  ...
+# Subtest: withdrawal and reappearance create a distinct episode
+ok 11 - withdrawal and reappearance create a distinct episode
+  ---
+  duration_ms: 1.007119
+  type: 'test'
+  ...
+# Subtest: partial, malformed, stale, out-of-order and duplicate input preserve state
+ok 12 - partial, malformed, stale, out-of-order and duplicate input preserve state
+  ---
+  duration_ms: 2.381412
+  type: 'test'
+  ...
+# Subtest: CineWatch native detector/renderer works with shared history and sink; old dates never repeat
+ok 13 - CineWatch native detector/renderer works with shared history and sink; old dates never repeat
+  ---
+  duration_ms: 15.046812
+  type: 'test'
+  ...
+# Subtest: source namespaces isolate cinema, simulated cards and real cards
+ok 14 - source namespaces isolate cinema, simulated cards and real cards
+  ---
+  duration_ms: 0.616489
+  type: 'test'
+  ...
+# Subtest: file sink is idempotent after crash between write and receipt
+ok 15 - file sink is idempotent after crash between write and receipt
+  ---
+  duration_ms: 13.981319
+  type: 'test'
+  ...
+# Subtest: workspace refuses production paths, concurrent runs and corrupt state
+ok 16 - workspace refuses production paths, concurrent runs and corrupt state
+  ---
+  duration_ms: 4.697541
+  type: 'test'
+  ...
+# Subtest: Scryfall adapter uses exact printing, required headers and 24-hour cache
+ok 17 - Scryfall adapter uses exact printing, required headers and 24-hour cache
+  ---
+  duration_ms: 2.93298
+  type: 'test'
+  ...
+# Subtest: Scryfall 429 or schema error is not silently converted to empty success
+ok 18 - Scryfall 429 or schema error is not silently converted to empty success
+  ---
+  duration_ms: 1.476577
+  type: 'test'
+  ...
+# Subtest: JSON loader does not hide corruption as an empty snapshot
+ok 19 - JSON loader does not hide corruption as an empty snapshot
+  ---
+  duration_ms: 2.614326
+  type: 'test'
+  ...
+# Subtest: findNewDates only returns unseen theatre dates
+ok 20 - findNewDates only returns unseen theatre dates
+  ---
+  duration_ms: 1.260012
+  type: 'test'
+  ...
+# Subtest: collectTheatreDates creates persistent state
+ok 21 - collectTheatreDates creates persistent state
+  ---
+  duration_ms: 0.179345
+  type: 'test'
+  ...
+# Subtest: mergeSeenDates never forgets dates missing from a partial scrape
+ok 22 - mergeSeenDates never forgets dates missing from a partial scrape
+  ---
+  duration_ms: 0.179372
+  type: 'test'
+  ...
+# Subtest: email includes the useful booking details
+ok 23 - email includes the useful booking details
+  ---
+  duration_ms: 13.862208
+  type: 'test'
+  ...
+# Subtest: multiple new dates are combined into one email
+ok 24 - multiple new dates are combined into one email
+  ---
+  duration_ms: 1.376298
+  type: 'test'
+  ...
+# Subtest: detects a newly refunded adjacent pair only in the rear half
+ok 25 - detects a newly refunded adjacent pair only in the rear half
+  ---
+  duration_ms: 0.63283
+  type: 'test'
+  ...
+# Subtest: does not repeat an adjacent pair that was already available
+ok 26 - does not repeat an adjacent pair that was already available
+  ---
+  duration_ms: 0.246075
+  type: 'test'
+  ...
+# Subtest: seat alert email includes showtime and rear row
+ok 27 - seat alert email includes showtime and rear row
+  ---
+  duration_ms: 0.636798
+  type: 'test'
+  ...
+# Subtest: requires both IMAX and 70mm tags
+ok 28 - requires both IMAX and 70mm tags
+  ---
+  duration_ms: 1.184741
+  type: 'test'
+  ...
+# Subtest: keeps only target sessions
+ok 29 - keeps only target sessions
+  ---
+  duration_ms: 0.785851
+  type: 'test'
+  ...
+# Subtest: compacts layout and availability
+ok 30 - compacts layout and availability
+  ---
+  duration_ms: 1.580001
+  type: 'test'
+  ...
+1..30
+# tests 30
+# suites 0
+# pass 30
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 194.210888
