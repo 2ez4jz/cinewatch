@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-06T06:28:49.214Z",
-  "mode": "quick",
+  "updatedAt": "2026-11-06T10:47:21.124Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -43,38 +43,6 @@
           ]
         },
         "530759": {
-          "totalRows": 12,
-          "totalColumns": 29,
-          "rowLabels": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            null,
-            null,
-            "F",
-            "G",
-            "H",
-            "I",
-            "J"
-          ],
-          "seatTypes": [
-            "....SSSSSSSSSSSSSSSSSSSSSS...",
-            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
-            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
-            ".............................",
-            ".............................",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
-          ]
-        },
-        "530760": {
           "totalRows": 12,
           "totalColumns": 29,
           "rowLabels": [
@@ -3655,21 +3623,7 @@
                     "70mm"
                   ],
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=530760&a=0000000001&l=7408&m=dune-part-three&ss=False",
-                  "layoutKey": "530760",
-                  "seats": [
-                    "....OOOOOOO?OOOOOOOOOOOOOO...",
-                    "...OOOOOOOOOOOOOOOOOOOOOOOO..",
-                    "..OOOOAOOOOOOOO?OOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "..OOOOOOOOOOOOOOOOOOOOOOOO...",
-                    ".............................",
-                    ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
-                  ]
+                  "seatEligible": false
                 },
                 {
                   "id": "531222",
@@ -5961,7 +5915,7 @@
                     "AAAAAAOOOOOOOOOOOOOOOOOOOOAAA",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOOOAA",
-                    "AAAAOOOOOOOO?OOOOO??OOOOOOAA."
+                    "AAAOOOOOOOOO?OOOOO??OOOOOOAA."
                   ]
                 },
                 {
@@ -9683,7 +9637,7 @@
                     "..OAAAAAAOOOOOOOAAAAAAAAA....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
+                    "..AAAOOOOOOOOOOOOOOOOOOOOAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -10564,7 +10518,7 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
                     "AAAAAAAAAOOOOOOOOAOAAAAAAAAA.",
-                    "..AAAOOOOOOOOOOOOOOOOOOAAAA..",
+                    "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
