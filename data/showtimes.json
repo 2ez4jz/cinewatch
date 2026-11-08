@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-08T22:47:30.283Z",
-  "mode": "quick",
+  "updatedAt": "2026-11-08T23:41:09.150Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -4051,7 +4051,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAOOOOOO?OOOAAAAAAAAA.",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
@@ -9805,7 +9805,7 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388020&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388020",
                   "seats": [
-                    "...AAAAAAAAAOOOAAAAAAAA......",
+                    "...AAAAAAAAOOOOAAAAAAAA......",
                     "..AAAAOOOOOOOOOOOOOOOOOAA....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -12170,7 +12170,7 @@
                     ".............................",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOAAA.",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOAAAAA",
+                    "AAAOOOOOOOOOOOOOOOOOOOOOOOAAA",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOOOO"
                   ]
