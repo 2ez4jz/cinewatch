@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-10T02:47:23.364Z",
-  "mode": "quick",
+  "updatedAt": "2026-11-10T08:23:12.610Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -10,6 +10,38 @@
       "shortName": "Vaughan",
       "location": "Highway 7 & Highway 400",
       "auditoriums": {
+        "530758": {
+          "totalRows": 12,
+          "totalColumns": 29,
+          "rowLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            null,
+            null,
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "seatTypes": [
+            "....SSSSSSSSSSSSSSSSSSSSSS...",
+            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
+            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
+            ".............................",
+            ".............................",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
+          ]
+        },
         "530759": {
           "totalRows": 12,
           "totalColumns": 29,
@@ -619,6 +651,38 @@
           ]
         },
         "540732": {
+          "totalRows": 12,
+          "totalColumns": 29,
+          "rowLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            null,
+            null,
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "seatTypes": [
+            "....SSSSSSSSSSSSSSSSSSSSSS...",
+            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
+            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
+            ".............................",
+            ".............................",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
+          ]
+        },
+        "540733": {
           "totalRows": 12,
           "totalColumns": 29,
           "rowLabels": [
@@ -1514,6 +1578,38 @@
             "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
           ]
         },
+        "540761": {
+          "totalRows": 12,
+          "totalColumns": 29,
+          "rowLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            null,
+            null,
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "seatTypes": [
+            "....SSSSSSSSSSSSSSSSSSSSSS...",
+            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
+            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
+            ".............................",
+            ".............................",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
+          ]
+        },
         "540762": {
           "totalRows": 12,
           "totalColumns": 29,
@@ -2250,6 +2346,38 @@
             "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
           ]
         },
+        "540785": {
+          "totalRows": 12,
+          "totalColumns": 29,
+          "rowLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            null,
+            null,
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "seatTypes": [
+            "....SSSSSSSSSSSSSSSSSSSSSS...",
+            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
+            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
+            ".............................",
+            ".............................",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
+          ]
+        },
         "540786": {
           "totalRows": 12,
           "totalColumns": 29,
@@ -2890,6 +3018,38 @@
             "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
           ]
         },
+        "540806": {
+          "totalRows": 12,
+          "totalColumns": 29,
+          "rowLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            null,
+            null,
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "seatTypes": [
+            "....SSSSSSSSSSSSSSSSSSSSSS...",
+            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
+            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
+            ".............................",
+            ".............................",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
+          ]
+        },
         "540807": {
           "totalRows": 12,
           "totalColumns": 29,
@@ -3051,6 +3211,38 @@
           ]
         },
         "540813": {
+          "totalRows": 12,
+          "totalColumns": 29,
+          "rowLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            null,
+            null,
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "seatTypes": [
+            "....SSSSSSSSSSSSSSSSSSSSSS...",
+            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
+            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
+            ".............................",
+            ".............................",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
+          ]
+        },
+        "540814": {
           "totalRows": 12,
           "totalColumns": 29,
           "rowLabels": [
@@ -3340,7 +3532,22 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=530758&a=0000000001&l=7408&m=dune-part-three&ss=False"
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=530758&a=0000000001&l=7408&m=dune-part-three&ss=False",
+                  "layoutKey": "530758",
+                  "seats": [
+                    "....OOOOOOO?OOOOOOOOOOOOOO...",
+                    "...OOOOOOOOOOOOOOOOOOOOOOOO..",
+                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "..OAOOOOOOOOOOOOOOOOOOOOOO...",
+                    ".............................",
+                    ".............................",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
+                  ]
                 },
                 {
                   "id": "531220",
@@ -3494,7 +3701,7 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540724&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "540724",
                   "seats": [
-                    "....AAAAAAA?OAAAAAAAAAAAAA...",
+                    "....AAAAAAA?OOOAAAAAAAAAAA...",
                     "...AAAAAAOOOOOOOOOOOOOAAAAA..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -3676,7 +3883,7 @@
                     "....OOOOAAO?OOOOOOOOOAOAAA...",
                     "...OOOOOOOOOOOOOOOOOOOOAAOO..",
                     "..AAOOOOOOOOOOO?OOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOAAOOOOAAAAAAA",
+                    "OOOOOOOOOOOOOOOOOOOOOOAAAAAAA",
                     "..AAOOOOOOOOOOOOOOOOOOOAAO...",
                     ".............................",
                     ".............................",
@@ -3836,7 +4043,22 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540733&a=0000000001&l=7408&m=dune-part-three&ss=False"
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540733&a=0000000001&l=7408&m=dune-part-three&ss=False",
+                  "layoutKey": "540733",
+                  "seats": [
+                    "....AAAAAAA?AAAAAAAAAAAAAA...",
+                    "...AAAAAAAAAAAOAAAAAAAAAAAA..",
+                    "..AAAAAAAOOOOOO?OOOAAAAAAAAA.",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOAAA",
+                    "..AAAAOOOOOOOOOOOOOOOOAAAA...",
+                    ".............................",
+                    ".............................",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
+                  ]
                 },
                 {
                   "id": "540732",
@@ -4546,7 +4768,22 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540761&a=0000000001&l=7408&m=dune-part-three&ss=False"
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540761&a=0000000001&l=7408&m=dune-part-three&ss=False",
+                  "layoutKey": "540761",
+                  "seats": [
+                    "....AAAAAAA?AAAAAAAAAAAAAA...",
+                    "...AAAAAAAAAAAAAAAAAAAAAAAA..",
+                    "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
+                    "AAAAAAAAAAOOOOOOOOOOOAAAAAAAA",
+                    "..AAAAOOOOOOOOOOOOOOOAAAAA...",
+                    ".............................",
+                    ".............................",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
+                  ]
                 },
                 {
                   "id": "540762",
@@ -5221,7 +5458,22 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540785&a=0000000001&l=7408&m=dune-part-three&ss=False"
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540785&a=0000000001&l=7408&m=dune-part-three&ss=False",
+                  "layoutKey": "540785",
+                  "seats": [
+                    "....AAAAAAA?AAAAAAAAAAAAAA...",
+                    "...AAAAAAAAAAAAAAAAAAAAAAAA..",
+                    "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
+                    "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "..AAAAAAAAAOOOOOOOOAAAAAAA...",
+                    ".............................",
+                    ".............................",
+                    "AAAOOOOOOOOOOOOOOOOOOOOOOAAAA",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOAA",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "AOOOOOOOOOOO?OOOOO??OOOOOOOO."
+                  ]
                 }
               ]
             }
@@ -5469,7 +5721,7 @@
                     "AAAAAOOOOOOOOOOOOOOOOOOOAAAAA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "AAAOOOOOOOOO?OOOOO??OOOOOOAA."
+                    "OOOOOOOOOOOO?OOOOO??OOOOOOAA."
                   ]
                 }
               ]
@@ -5597,7 +5849,22 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540814&a=0000000001&l=7408&m=dune-part-three&ss=False"
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540814&a=0000000001&l=7408&m=dune-part-three&ss=False",
+                  "layoutKey": "540814",
+                  "seats": [
+                    "....AAAAAAA?AAAAAAAAAAAAAA...",
+                    "...AAAAAAAAAAAAAAAAAAAAAAAA..",
+                    "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
+                    "AAAAAAAAAAAOOOOOOOAAAAAAAAAAA",
+                    "..OAAOOOOOOOOOOOOOOOAAAAAA...",
+                    ".............................",
+                    ".............................",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
+                    "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
+                  ]
                 },
                 {
                   "id": "540811",
@@ -5747,9 +6014,9 @@
                     "..AAAAAAAOOOOOOOOOAAAAAAAA...",
                     ".............................",
                     ".............................",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOOAAAAA",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOOAAAA",
+                    "AAAAAOOOOOOOOOOOOOOOOOOOAAAAA",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "OAOOOOOOOOOOOOOOOOOOOOOOOOOAA",
                     "AAOOOOOOOOOO?OOOOO??OOOOOOOO."
                   ]
@@ -6021,7 +6288,22 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540806&a=0000000001&l=7408&m=dune-part-three&ss=False"
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540806&a=0000000001&l=7408&m=dune-part-three&ss=False",
+                  "layoutKey": "540806",
+                  "seats": [
+                    "....AAAAAAA?AAAAAAAAAAAAAA...",
+                    "...AAAAAAAAAAAAAAAAAAAAAAAA..",
+                    "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
+                    "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    "..AAAAAAAAOOOOOOOAAAAAAAAA...",
+                    ".............................",
+                    ".............................",
+                    "AAAAAOOOOOOOOOOOOOOOOOOOAAAAA",
+                    "AAAAAOOOOOOOOOOOOOOOOOOOOOAAA",
+                    "AAAOOOOOOOOOOOOOOOOOOOOOOAAAA",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOOOAAA",
+                    "AAAAAOOOOOOO?OOOOO??OOOOAAAA."
+                  ]
                 },
                 {
                   "id": "540805",
@@ -6415,6 +6697,36 @@
           ]
         },
         "388027": {
+          "totalRows": 11,
+          "totalColumns": 29,
+          "rowLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            null,
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "seatTypes": [
+            "...SSSSSSSSSSSSSSSSSSSS......",
+            "..SSSSSSSSSSSSSSSSSSSSSSS....",
+            ".SSSSSSSSSSSSSSSSSSSSSSSSS...",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "..WWCSSSSSSSSSSSSSSSSSSSCWW..",
+            ".............................",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
+          ]
+        },
+        "388028": {
           "totalRows": 11,
           "totalColumns": 29,
           "rowLabels": [
@@ -6985,6 +7297,36 @@
           ]
         },
         "388047": {
+          "totalRows": 11,
+          "totalColumns": 29,
+          "rowLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            null,
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "seatTypes": [
+            "...SSSSSSSSSSSSSSSSSSSS......",
+            "..SSSSSSSSSSSSSSSSSSSSSSS....",
+            ".SSSSSSSSSSSSSSSSSSSSSSSSS...",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "..WWCSSSSSSSSSSSSSSSSSSSCWW..",
+            ".............................",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
+          ]
+        },
+        "388048": {
           "totalRows": 11,
           "totalColumns": 29,
           "rowLabels": [
@@ -7944,6 +8286,36 @@
             "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
           ]
         },
+        "388080": {
+          "totalRows": 11,
+          "totalColumns": 29,
+          "rowLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            null,
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "seatTypes": [
+            "...SSSSSSSSSSSSSSSSSSSS......",
+            "..SSSSSSSSSSSSSSSSSSSSSSS....",
+            ".SSSSSSSSSSSSSSSSSSSSSSSSS...",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "..WWCSSSSSSSSSSSSSSSSSSSCWW..",
+            ".............................",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
+          ]
+        },
         "388081": {
           "totalRows": 11,
           "totalColumns": 29,
@@ -8064,6 +8436,36 @@
             "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
           ]
         },
+        "388085": {
+          "totalRows": 11,
+          "totalColumns": 29,
+          "rowLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            null,
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "seatTypes": [
+            "...SSSSSSSSSSSSSSSSSSSS......",
+            "..SSSSSSSSSSSSSSSSSSSSSSS....",
+            ".SSSSSSSSSSSSSSSSSSSSSSSSS...",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "..WWCSSSSSSSSSSSSSSSSSSSCWW..",
+            ".............................",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
+          ]
+        },
         "388086": {
           "totalRows": 11,
           "totalColumns": 29,
@@ -8095,6 +8497,36 @@
           ]
         },
         "388087": {
+          "totalRows": 11,
+          "totalColumns": 29,
+          "rowLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            null,
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "seatTypes": [
+            "...SSSSSSSSSSSSSSSSSSSS......",
+            "..SSSSSSSSSSSSSSSSSSSSSSS....",
+            ".SSSSSSSSSSSSSSSSSSSSSSSSS...",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "..WWCSSSSSSSSSSSSSSSSSSSCWW..",
+            ".............................",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
+          ]
+        },
+        "388088": {
           "totalRows": 11,
           "totalColumns": 29,
           "rowLabels": [
@@ -9622,7 +10054,21 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388028&a=0000000001&l=7420&m=dune-part-three&ss=False"
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388028&a=0000000001&l=7420&m=dune-part-three&ss=False",
+                  "layoutKey": "388028",
+                  "seats": [
+                    "...AAAAAAAAAAAAAAAAAAAA......",
+                    "..AAAAAAAAAOOOOOAAAAAAAAA....",
+                    ".AAAAAOOOOOOOOOOOOOOOOOOAA...",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "..AAAOOOOOOOOOOOOOOOOOOOOAA..",
+                    ".............................",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
+                  ]
                 },
                 {
                   "id": "388029",
@@ -10100,7 +10546,21 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388048&a=0000000001&l=7420&m=dune-part-three&ss=False"
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388048&a=0000000001&l=7420&m=dune-part-three&ss=False",
+                  "layoutKey": "388048",
+                  "seats": [
+                    "...AAAAAAAAAAAAAAAAAAAA......",
+                    "..AAAAAAAAAAAAAAAAAAAAAAA....",
+                    ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                    "AAAAAAAOOOOOOOOOOOOAAAAAAAAA.",
+                    "..AAAOAOOOOOOOOOOOOOOOOOAAA..",
+                    ".............................",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
+                  ]
                 },
                 {
                   "id": "388047",
@@ -10887,7 +11347,21 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388080&a=0000000001&l=7420&m=dune-part-three&ss=False"
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388080&a=0000000001&l=7420&m=dune-part-three&ss=False",
+                  "layoutKey": "388080",
+                  "seats": [
+                    "...AAAAAAAAAAAAAAAAAAAA......",
+                    "..AAAAAAAAAAAAAAAAAAAAAAA....",
+                    ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                    "AAAAAAAAAAAAAOOOAAAAAAAAAAAA.",
+                    "..AAAAAAOOOOOOOOOOOAAAAAAAA..",
+                    ".............................",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
+                  ]
                 },
                 {
                   "id": "388081",
@@ -10999,7 +11473,21 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388085&a=0000000001&l=7420&m=dune-part-three&ss=False"
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388085&a=0000000001&l=7420&m=dune-part-three&ss=False",
+                  "layoutKey": "388085",
+                  "seats": [
+                    "...AAAAAAAAAAAAAAAAAAAA......",
+                    "..AAAAAAAAAAAAAAAAAAAAAAA....",
+                    ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                    "AAAAAAAAAAAOOOOOOAAAAAAAAAAA.",
+                    "..AAAAAOOOOOOOOOOOOAAAAAAAA..",
+                    ".............................",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOAOO",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
+                  ]
                 },
                 {
                   "id": "388086",
@@ -11076,7 +11564,7 @@
                     ".............................",
                     "AAAAAAOOOOOOOOOOOOOOOOAAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOOAAAA.",
-                    "AAOOOOOOOOOOOOOOOOOOOOOOOAAAA",
+                    "AAOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "OAOOOOOOOOOOOOOOOOOOOOOOOOOAA"
                   ]
@@ -11088,7 +11576,21 @@
                     "IMAX",
                     "70mm"
                   ],
-                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388088&a=0000000001&l=7420&m=dune-part-three&ss=False"
+                  "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388088&a=0000000001&l=7420&m=dune-part-three&ss=False",
+                  "layoutKey": "388088",
+                  "seats": [
+                    "...AAAAAAAAAAAAAAAAAAAA......",
+                    "..AAAAAAAAAAAAAAAAAAAAAAA....",
+                    ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
+                    "AAAAAAAAAAAAAOOAAAAAAAAAAAAA.",
+                    "..AAAAAAAOOOOOOOOOOOAAAAAAA..",
+                    ".............................",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOOAAA.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOAA.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA"
+                  ]
                 },
                 {
                   "id": "388089",
@@ -11266,7 +11768,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAAAAOOOOOAAAAAAAAAA..",
                     ".............................",
-                    "AAAAAAOOOOOOOOOOOOAOOOAAAAAA.",
+                    "AAAAAAOOOOOOOOOOOOOOOOAAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOAAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAA.",
