@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-11T18:08:05.517Z",
-  "mode": "quick",
+  "updatedAt": "2026-11-11T18:39:32.733Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -203,6 +203,38 @@
           ]
         },
         "531223": {
+          "totalRows": 12,
+          "totalColumns": 29,
+          "rowLabels": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            null,
+            null,
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "seatTypes": [
+            "....SSSSSSSSSSSSSSSSSSSSSS...",
+            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
+            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
+            ".............................",
+            ".............................",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
+            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
+          ]
+        },
+        "540719": {
           "totalRows": 12,
           "totalColumns": 29,
           "rowLabels": [
@@ -3388,7 +3420,21 @@
                     "70mm"
                   ],
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540719&a=0000000001&l=7408&m=dune-part-three&ss=False",
-                  "seatEligible": false
+                  "layoutKey": "540719",
+                  "seats": [
+                    "....OOOOOOO?OOOOOOOOOOOOOO...",
+                    "...OOOOOOOOOOOOOOOOOOOOOOOO..",
+                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "..OOAOOOOOOOOOOOOOOOOOOOOA...",
+                    ".............................",
+                    ".............................",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
+                  ]
                 }
               ]
             }
@@ -5413,7 +5459,7 @@
                     ".............................",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOAAA",
-                    "AAOOOOOOOOOOOOOOOOOOOOOOOOOOA",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
                   ]
