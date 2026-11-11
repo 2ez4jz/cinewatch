@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-11T10:49:55.767Z",
-  "mode": "deep",
+  "updatedAt": "2026-11-11T18:08:05.517Z",
+  "mode": "quick",
   "theatres": [
     {
       "id": 7408,
@@ -203,38 +203,6 @@
           ]
         },
         "531223": {
-          "totalRows": 12,
-          "totalColumns": 29,
-          "rowLabels": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            null,
-            null,
-            "F",
-            "G",
-            "H",
-            "I",
-            "J"
-          ],
-          "seatTypes": [
-            "....SSSSSSSSSSSSSSSSSSSSSS...",
-            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
-            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
-            ".............................",
-            ".............................",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
-          ]
-        },
-        "540719": {
           "totalRows": 12,
           "totalColumns": 29,
           "rowLabels": [
@@ -3420,21 +3388,7 @@
                     "70mm"
                   ],
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=540719&a=0000000001&l=7408&m=dune-part-three&ss=False",
-                  "layoutKey": "540719",
-                  "seats": [
-                    "....OOOOOOO?OOOOOOOOOOOOOO...",
-                    "...OOOOOOOOOOOOOOOOOOOOOOOO..",
-                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "..OOAOOOOOOOOOOOOOOOOOOOOA...",
-                    ".............................",
-                    ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
-                  ]
+                  "seatEligible": false
                 }
               ]
             }
@@ -3564,7 +3518,7 @@
                   "seats": [
                     "....AAAAAAA?AAOAAAAAAAAAAA...",
                     "...AAAAAAOOOOOOOOOOAAAAAAAA..",
-                    "..AAAAOOOOOOOOO?OOOOOOAAAAAA.",
+                    "..AAAAOOOOOOOOO?OOOOOOOOOOAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAOOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -3589,7 +3543,7 @@
                     "....AAAAAAA?AAOOOOAAAAAAAA...",
                     "...AAAAAOOOOOOOOOOAAAAAAAAA..",
                     "..AAOOOOOOOOOOO?OOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOAOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAO...",
                     ".............................",
                     ".............................",
@@ -3671,7 +3625,7 @@
                   "seats": [
                     "....AAAAAAA?OOOAAAAAAAAAAA...",
                     "...AAAAAAOOOOOOOOOOOOOAAAAA..",
-                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
+                    "..OOOOOOOOOOOOO?OOOOOAAOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -3764,7 +3718,7 @@
                   "seats": [
                     "....AAAAAAA?OOOOOOOAAAAAAA...",
                     "...AAAOAAOOOOOOOOOOOOOAAAAA..",
-                    "..OAOOOOOOOOOOO?OOOOOOOOOOOO.",
+                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAOOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -3837,7 +3791,7 @@
                     "....OOOOAAO?OOOOOOOOOAOAAA...",
                     "...OOOOOOOOOOOOOOOOOOOOAAOO..",
                     "..AAOOOOOOOOOOO?OOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOAAAAAAA",
+                    "OOOOOOOOOOOOOOOOOOOOOOAAAAAAO",
                     "..AAOOOOOOOOOOOOOOOOOOOAAO...",
                     ".............................",
                     ".............................",
@@ -4092,7 +4046,7 @@
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOAOOOOOOOOOOOOOOOOOOOOOO",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
                   ]
@@ -4563,7 +4517,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAOOOOOO?OOOAAAAAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAAA",
-                    "..AAAAAOOOOOOOOOOOOOOOAAAA...",
+                    "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -5458,7 +5412,7 @@
                     ".............................",
                     ".............................",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOAAAA",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOOOAAA",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOAAA",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
@@ -5786,7 +5740,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAOO?AAAAAAAAAAAA.",
                     "AAAAAAAAAAOOOOOOOOAAAAAAAAAAA",
-                    "..AAAAAAOOOOOOOOOOOOOOAAAA...",
+                    "..AAAAAOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -6090,7 +6044,7 @@
                     "AAAAOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "OAAOOOOOOOOOOOOOOOOOOOOOOOOAA",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOAAA",
-                    "OAOOOOOOOOOO?OOOOO??OOOOOAAA."
+                    "OAOOOOOOOOOO?OOOOO??OOOOOOOA."
                   ]
                 },
                 {
@@ -11517,7 +11471,7 @@
                     "..AAAAAAAOOOOOOOOOOAAAAAAAA..",
                     ".............................",
                     "AAAAAAOOOOOOOOOOOOOOOOAAAAAA.",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOAAAA.",
+                    "AAAAOOOOOOOOOOOOOOOOOOOOOAAA.",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "OAOOOOOOOOOOOOOOOOOOOOOOOOOAA"
@@ -11966,7 +11920,7 @@
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
+                    "OOOOOOOOOOOOOAAOOOOOOOOOOOOOO"
                   ]
                 },
                 {
@@ -12275,7 +12229,7 @@
                     "AAAAAOOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOAAA",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOAA.",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOAAAAA"
+                    "OOAAOOOOOOOOOOOOOOOOOOOOAAAAA"
                   ]
                 }
               ]
@@ -12330,7 +12284,7 @@
                     ".............................",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOAA.",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
-                    "AOOOOOOOOOOOOOOOOOOOOOOOOAAAA",
+                    "AOOOOAAOOOOOOOOOOOOOOOOOOAAAA",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOAAA.",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOAAA"
                   ]
