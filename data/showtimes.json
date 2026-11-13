@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-12T23:38:27.791Z",
-  "mode": "deep",
+  "updatedAt": "2026-11-13T02:48:22.537Z",
+  "mode": "quick",
   "theatres": [
     {
       "id": 7408,
@@ -75,38 +75,6 @@
           ]
         },
         "530761": {
-          "totalRows": 12,
-          "totalColumns": 29,
-          "rowLabels": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            null,
-            null,
-            "F",
-            "G",
-            "H",
-            "I",
-            "J"
-          ],
-          "seatTypes": [
-            "....SSSSSSSSSSSSSSSSSSSSSS...",
-            "...SSSSSSSSSSSSSSSSSSSSSSSS..",
-            "..SSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "..CWWCSSSSSSSSSSSSSSSSCWWC...",
-            ".............................",
-            ".............................",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS."
-          ]
-        },
-        "531220": {
           "totalRows": 12,
           "totalColumns": 29,
           "rowLabels": [
@@ -3479,21 +3447,7 @@
                     "70mm"
                   ],
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=531220&a=0000000001&l=7408&m=dune-part-three&ss=False",
-                  "layoutKey": "531220",
-                  "seats": [
-                    "....AAOOOOO?OOOOOOOOOOOOOO...",
-                    "...OOOOOOOOOOOOOOOOOOOOOOOA..",
-                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "..OOOOOOOOOOOOOOOAOOOOOOAO...",
-                    ".............................",
-                    ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
-                  ]
+                  "seatEligible": false
                 }
               ]
             }
@@ -4793,7 +4747,7 @@
                     "..AAAAOOOOOOOOOOOOOOAAAAAA...",
                     ".............................",
                     ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -5028,7 +4982,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
                     "AAAAAAAAOOOOOOOOOAAAAAAAAAAAA",
-                    "..AAAAAOOOOOOOOOOOOOAAAAAA...",
+                    "..AAAAAOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
@@ -5134,7 +5088,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
-                    "AAAAAAAOOOOOOOOOOOAAAAAAAAAAA",
+                    "AAAAAAAOOOOOOOOOOOOOOOAAAAAAA",
                     "..AAAAOOOOOOOOOOOOOOOAAAAA...",
                     ".............................",
                     ".............................",
@@ -9656,7 +9610,7 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388017&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388017",
                   "seats": [
-                    "...AAAAAAAAAAAOAAAAAAAA......",
+                    "...AAAAAAAAAOOOAAAAAAAA......",
                     "..OOOOOOOOOOOOOOOOOOOOAAA....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -10873,7 +10827,7 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
                     "AAAAAAAAAOOOOOOOOOOOOAAAAAAA.",
-                    "..AAAAOOOOOOOOOOOOOOOOAAAAA..",
+                    "..AAAAOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -12101,7 +12055,7 @@
                     ".............................",
                     "AAAAAAAOOOOOOOOOOOOOOAAAAAAA.",
                     "AAAAAAAOOOOOOOOOOOOOOAAAAAAA.",
-                    "AAAAAAAOOOOOOOOOOOOOOOOAAAAAA",
+                    "AAAAAAOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAOOOOOOOOOOOOOOOOOOOAAAAAA.",
                     "OOAAAAOOOOOOOOOOOOOOOOOOOOAAA"
                   ]
@@ -12259,7 +12213,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAAAAOOOOAAAAAAAAAAA..",
                     ".............................",
-                    "AAAAAAAAOOOOOOOOOOOOOOAAAAAA.",
+                    "AAAAAAOOOOOOOOOOOOOOOOAAAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOOAAAAAAA",
                     "AAAAAOOOAOOOOOOOOOOOOOOAAAAA.",
@@ -12365,7 +12319,7 @@
                     "AAAAOOOOOOOOOOOOOOOOOOOOOOAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOOAAAA.",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOAAA",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOOOOO.",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOAAA"
                   ]
                 },
