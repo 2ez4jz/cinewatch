@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-15T20:20:42.540Z",
-  "mode": "quick",
+  "updatedAt": "2026-11-15T21:44:44.564Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -3542,18 +3542,18 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=531221&a=0000000001&l=7408&m=dune-part-three&ss=False",
                   "layoutKey": "531221",
                   "seats": [
-                    "....OOOOAOO?OOOOOOOOOOAOOO...",
-                    "...OAOOOOOOOOOOOOOOOOOOOOOO..",
-                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
+                    "....OOOOOOOOOOOOOOOOOOOOOO...",
+                    "...OOOOOOOOOOOOOOOOOOOOOOOO..",
+                    "..OOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "..OAAOOOOOOOOOOOOOOOOOOAAO...",
+                    "..OOOOOOOOOOOOOOOOOOOOOOOO...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO."
                   ]
                 }
               ]
@@ -3579,7 +3579,7 @@
                   "seats": [
                     "....AAAAAAA?OOOAAAAAAAAAAA...",
                     "...AAAAAAOOOOOOOOOOOOOAAAAA..",
-                    "..OOOOOOOOOOOOO?OOOOOAAOOOOO.",
+                    "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
@@ -4529,7 +4529,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
-                    "AAAAAAAAOOOOOOOOOOOAAAAAAAAAA",
+                    "AAAAOOAAOOOOOOOOOOOAAAAAAAAAA",
                     "..AAAAAOOOOOOOOOOOOOOAAAAA...",
                     ".............................",
                     ".............................",
@@ -10724,7 +10724,7 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
                     "AAAAAAAAAAAOOOOOOAAAAAAAAAAA.",
-                    "..AAAOOOOOOOOOOOOOOOOOOAAAA..",
+                    "..AAAOOOOOOOOOOOOOOOOAAAAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -11550,7 +11550,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAOOOOOOOOOAAAAAAAAA..",
                     ".............................",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOOAAA.",
+                    "AAOOOOOOOOOOOOOOOOOOOOOOOAAA.",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOAA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
