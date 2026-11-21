@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-21T01:28:01.180Z",
-  "mode": "deep",
+  "updatedAt": "2026-11-21T07:38:03.218Z",
+  "mode": "quick",
   "theatres": [
     {
       "id": 7408,
@@ -3780,8 +3780,8 @@
                     "..AAAAAAAAAAAOOOAAAAAAAAAA...",
                     ".............................",
                     ".............................",
-                    "AAAAAAAAAOOAOOOOOOOOAAAAAAAAA",
-                    "AAAAAAAAOOOOOOOOOOAAAAAAAAAAA",
+                    "AAAAAAAAAOOOOOOOOOOOAAAAAAAAA",
+                    "OAAAAAAAOOOOOOOOOOAAAAAAAAAAA",
                     "AAAAAAAAOOOOOOOOOOOOOAAAAAAAA",
                     "AAAAAAAOOOOOOOOOOOOOOAAAAAAAA",
                     "AAAAOOOOOOOO?OOOOO??OOOAAAAA."
@@ -3801,14 +3801,14 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "..AAAAAAAAAAAAAAAAAAAAAAAA...",
+                    "..AAAAAAAAAAAAOOAAAAAAAAAA...",
                     ".............................",
                     ".............................",
                     "AAAAAAAAAOOOOOOOOOAAOOAAAAOOO",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOAAAAAAOO",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAAA",
-                    "AAAAAOOOOOOO?OOOOO??OOOOOAOO."
+                    "OOAAAOOOOOOO?OOOOO??OOOOOAOO."
                   ]
                 },
                 {
@@ -3856,7 +3856,7 @@
                     "AAAAAAOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOOOOAOO",
-                    "AAAAAOOOOOOO?OOOOO??OOOOAAAA."
+                    "AAAAAOOOOOOO?OOOOO??OOOOOOOA."
                   ]
                 }
               ]
@@ -3891,7 +3891,7 @@
                     "AAAAAAAAOOOOOOOOOOOOOOAAAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOAAAAAAAA",
                     "AAAAAAAAOOOOOOOOOOOOOOOAAAAAA",
-                    "AAAAAAAAOOOO?OOOOO??OOOAAAAA."
+                    "AAAAAAOOOOOO?OOOOO??OOOAAAAA."
                   ]
                 },
                 {
@@ -3911,7 +3911,7 @@
                     "..AAAAAAAAAAAAOOAAAAAAAAAA...",
                     ".............................",
                     ".............................",
-                    "AAAAAAAOOOOOOOOOOOOOOOAAAAAAA",
+                    "AAAAAAAOOOOOOOOOOOOOOOOOAAAAA",
                     "OOAAOOOOOOOOOOOOOOOOOOOAAAAAA",
                     "OOAOOOOOOOOOOOOOOOOOOOOOOAAAO",
                     "AAAAOOOOOOOOOOOOOOOOOOOOOOAAA",
@@ -3936,10 +3936,10 @@
                     ".............................",
                     ".............................",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAAA",
-                    "AAAAAAAOOOOOOOOOOOOOOOOOAAAAA",
+                    "AAAAAOOOOOOOOOOOOOOOOOOOAAAAA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOAAAAA",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOOAAAA",
-                    "AAAOOOOOOOOO?OOOOO??OOOOAAAA."
+                    "AAAOOOOOOOOOOOOOOOOAAOOOAAAAA",
+                    "AAAOOOOOOOOO?OOOOO??OOOOOOAA."
                   ]
                 },
                 {
@@ -3956,7 +3956,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                    "..AAAAAAAAAAAAAAAAAAAAAAAA...",
+                    "..AAAAAAAAAAAOOAAAAAAAAAAA...",
                     ".............................",
                     ".............................",
                     "AAAAAAAAAAOOOOOOOOOOOAAAAAAAA",
@@ -3995,7 +3995,7 @@
                     ".............................",
                     ".............................",
                     "AAAAAAAAAOOOOOOOOOOOOAAAAAAAA",
-                    "AAAAAAAAAAOOOOOOOOOOAAAAAAAAA",
+                    "AAAAAAAAOOOOOOOOOOOOAAAAAAAAA",
                     "AAAAAAOOOOOOOOOOOOOOAAAAAAAAA",
                     "AAAAAAAOOOOOOOOOOOOOAAAAAAAAA",
                     "AAAAAAAOOOOO?OOOOO??OOAAAAAA."
@@ -4018,11 +4018,11 @@
                     "..AAAAAAAAAAOOOOOOOAAAAAAA...",
                     ".............................",
                     ".............................",
-                    "AAOOOOOOOOOOOOOOOOOOOOAAAAAAA",
+                    "AAOOOOOOOOOOOOOOOOOOOOOOAAAAA",
                     "AAOOOOOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOOAAAAA",
                     "AAAOOOOOOOOOOOOOOOOOOOOOAAAAA",
-                    "AAAAAAOOOOOO?OOOOO??OOAAAAAA."
+                    "AAAAAAOOOOOO?OOOOO??OOOOAAAA."
                   ]
                 },
                 {
@@ -4042,8 +4042,8 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAAA...",
                     ".............................",
                     ".............................",
-                    "AAAAAAAAOOOOAOOOOOOOOOOAAAAAA",
-                    "AAAAAAAAOOOOOOOOOOOOOAAAAAAAA",
+                    "AAAAOOOOOOOOAOOOOOOOOOOAAAAAA",
+                    "AAAAAAOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOAAAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAAAOOOOOO?OOOOO??OOAAAAAA."
@@ -4067,9 +4067,9 @@
                     ".............................",
                     ".............................",
                     "AAAAAAAAAAAOOOOOOOAAAAAAAAAAA",
-                    "AAAAAAAAAAOOOOOOOOOAAAAAAAAAA",
-                    "AAAAAAAAAAAOOOOOOOOOOOOAAAAAA",
-                    "AAAAAAAAAAOOOOOOOOOOOOAAAAAAA",
+                    "AAAAAAAAAAOOOOOOOOOOOAAAAAAAA",
+                    "AAAAAAAAAOOOOOOOOOOOOOOAAAAAA",
+                    "AAAOOOOOOAOOOOOOOOOOOOAAAAAAA",
                     "AAAAAAAAOOOO?OOOOO??AAAAAAAA."
                   ]
                 }
@@ -4900,7 +4900,7 @@
                     "....AAAAAAA?AAAAAAAAAAAAAA...",
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAOOO?AAAAAAAAAAAA.",
-                    "AAAAOOOOOOOOOOOOOOAAAAAAAAAAA",
+                    "AAAAOOOOOOOOOOOOOOOOAAAAAAAAA",
                     "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
@@ -5436,7 +5436,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAOOOOOOOOO?OOAAAAAAAAAA.",
                     "AAAAAOOOOOOOOOOOOOOOOAAAAAAAA",
-                    "..AAAAOOOOOOOOOOOAAOOOAAAA...",
+                    "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -5567,7 +5567,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
                     "AAAAAAAAAAAAOOOOOAAAAAAAAAAAA",
-                    "..AAAAOOOOOOOOOOOOOAAAAAAA...",
+                    "..AAAAAAOOOOOOOOOOOAAAAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -5709,7 +5709,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
                     "AAAAAAAAAOOOOOOOOOOOAAAAAAAAA",
-                    "..AAAAAAOOOOOOOOOOOOOOAAAA...",
+                    "..AAAAOOOOOOOOOOOOOOOOAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
@@ -6366,7 +6366,7 @@
                     ".............................",
                     ".............................",
                     "AAAOOOOOOOOOOOOOOOOOOOOOAAAAA",
-                    "AAOOOOOOOOOOOOOOOOOOOOOOOAAAA",
+                    "AAOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "OOAOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "AOOOOOOOOOOO?OOOOO??OOOOOOOO."
@@ -10638,7 +10638,7 @@
                     "AAAAAAAAAAOOOOOOOAAAAAAAAAAA.",
                     "AAAAAAAAOOOOOOOOOOAAAAAAAAAOO",
                     "AAAAAAAAOOOOOOOOOOAAAAAAAAAA.",
-                    "AAAAAAAOOOOOOOOOOOOAAAAAAAAAA"
+                    "AAAAAAAOOOOOOOOOOOOOAAAAAAAAA"
                   ]
                 },
                 {
@@ -10703,7 +10703,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAAAAAOOAAAAAAAAAAAA..",
                     ".............................",
-                    "AAAAAAAAAAAOOOOOOOAAAAAAAAAA.",
+                    "AAAAAAAAAAOOOOOOOOAAAAAAAAAA.",
                     "AAAAAAAAAAOOOOOOOOOOAAAAAAAA.",
                     "AAAAAAAAOOOOOOOOOOOOOAAAAAAAA",
                     "AAAAAAAAOOOOOOOOOOOOOAAAAAAA.",
@@ -10739,8 +10739,8 @@
                     ".............................",
                     "AAAAAAAAAAOOOOOOAAAAAAAAAAAA.",
                     "AAAAAAAAAAOOOOOOOOOAAAAAAAAA.",
-                    "AAAAAAAAOOOOOOOOOOOOAAAAAAAAA",
-                    "AAAAAAAAAOOOOOOOOOOOOAAAAAAA.",
+                    "AAOOAAAAOOOOOOOOOOOOAAAAAAAAA",
+                    "AAAAAAAAOOOOOOOOOOOOOAAAAAAA.",
                     "AAAAAAAAOOOOOOOOOOOOOOOOAAAAA"
                   ]
                 },
@@ -10760,7 +10760,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAAAAAOOOAAAAAAAAAAA..",
                     ".............................",
-                    "AAAAAAAAOOOOOOOOOOOAAAAAAAAA.",
+                    "AAAAAAAAOOOOOOOOOOOOOAAAAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOAAAAAAA.",
                     "AAAAAOOOOOOOOOOOOOOOOOOOAAAAA",
                     "AAAAAAAOOOOOOOOOOOOOOOAAAAAA.",
@@ -10783,7 +10783,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAAOOOOOOOAAAAAAAAAA..",
                     ".............................",
-                    "AAAAAAOOOOOOOOOOOOOOAAAAAAAA.",
+                    "AAAAAAOOOOOOOOOOOOOOOOAAAAAA.",
                     "AAAAAAAOOOOOOOOOOOOOOAAAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAAA",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAA.",
@@ -10806,11 +10806,11 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAAAAAOOAAAAAAAAAAAA..",
                     ".............................",
-                    "AAAAAAAAAOOOOOOOOOAAAAAAAAAA.",
+                    "AAAAAAAAAOOOOOOOOOOOAAAAAAAA.",
                     "AAAAAAAAAAOOOOOOOOOAAAAAAAAA.",
                     "AAAAAAAAAOOOOOOOOOOOAAAAAAAAA",
                     "AAAAAAAAAOOOOOOOOOOOOOOAAAAA.",
-                    "AAAAAAAAOOOOOOOOOOOAAAAAAAAAA"
+                    "AAAAAAAAOOOOOOOOOOOOOAAAAAAAA"
                   ]
                 }
               ]
@@ -10841,7 +10841,7 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAAAA..",
                     ".............................",
                     "AAAAAAAAAAOOOOOOOOOAAAAAAAAA.",
-                    "AAAAAAAAOOOOOOOOOOAAAAAAAAAA.",
+                    "AAAAAAAAOOOOOOOOOOOOOAAAAAAA.",
                     "AAAAAAAAAAOOOOOOOOAAAAAAAAAAA",
                     "AAAAAAAAAAOOOOOOOOOOAAAAAAAA.",
                     "AAAAAAAAOOOOOOOOOOAAAAAAAAAAA"
@@ -10864,7 +10864,7 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAAAA..",
                     ".............................",
                     "AAAAAAOOOOOOOOOOOOOAAAAAAAAA.",
-                    "AAAAAAAOOOOOOOOOOOOOAAAAAAAA.",
+                    "AAAAAAAOOOOOOOOOOOOOOOAAAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOOAAAAAAA",
                     "AAAAAAAOOOOOOOOOOOOOOAAAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOAAAAAAA"
@@ -10886,10 +10886,10 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAAAAAAAAAAAAAAAAAAA..",
                     ".............................",
-                    "AAAAAAAAAOOOOOOOOAAAAAAAAAAA.",
                     "AAAAAAAAAOOOOOOOOOOOAAAAAAAA.",
-                    "AAAAAAAAAAOOOOOOOOOOAAAAAAAAA",
-                    "AAAAAAAAOOOOOOOOOOOOAAAAAAAA.",
+                    "AAAAAAAAAOOOOOOOOOOOOAAAAAAA.",
+                    "AAAAAAAAOOOOOOOOOOOOAAAAAAAAA",
+                    "AAAAAAAAOOOOOOOOOOOOOOAAAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOOOAAAAAA"
                   ]
                 },
@@ -10912,7 +10912,7 @@
                     "AAAAAAAAAAAAOOOOAAAAAAAAAAAA.",
                     "AAAAAAAAAAAAOOOOOOAAAAAAAAAA.",
                     "AAAAAAAAAAAAOOOOOOAAAAAAAAAAA",
-                    "AAAAAAAAAAAAOOOOOAAAAAAAAAAA.",
+                    "AAAAAAAAAAOOOOOOOAAAAAAAAAAA.",
                     "AAAAAAAAAAAAOOOOOAAAAAAAAAAAA"
                   ]
                 }
@@ -11326,7 +11326,7 @@
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
                   ]
                 },
                 {
@@ -11523,7 +11523,7 @@
                   "layoutKey": "388035",
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
-                    "..AAAAAAAAAAAOOOAAAAAAAAA....",
+                    "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAOOOOOOOOOOOOOOOAAAAAA...",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
@@ -12928,7 +12928,7 @@
                     "AAAAOOOOOOOOOOOOOOOOOOOOAAAA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOA.",
-                    "OOOOOOOOOOOOOAAOOOOOOOOOOOAAO"
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOAAO"
                   ]
                 },
                 {
@@ -13164,7 +13164,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAAOOOOOOOOAAAAAAAAA..",
                     ".............................",
-                    "AAAAOOOOOOOOOOOAOOAOOOOAAAAA.",
+                    "AAAAOOOOOOOOOOOOOOAOOOOAAAAA.",
                     "AAAAAOOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOOAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOAAAAA.",
