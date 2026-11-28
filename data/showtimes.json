@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-28T04:13:39.042Z",
-  "mode": "quick",
+  "updatedAt": "2026-11-28T07:40:20.964Z",
+  "mode": "deep",
   "theatres": [
     {
       "id": 7408,
@@ -3780,7 +3780,7 @@
                     "..AAAAAAAOOOOOOOOOOAAAAAAA...",
                     ".............................",
                     ".............................",
-                    "AAAAAOOOOOOOOOOOOOOOOOOAAAAOO",
+                    "AAAAAOOOOOOOOOOOOOOOOOOOAAAOO",
                     "OAAAAOOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOAAAA",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOAAA",
@@ -4044,7 +4044,7 @@
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOAOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOAA",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "AOOOOAOOOOOO?OOOOO??OOOOOOOO."
                   ]
@@ -4246,7 +4246,7 @@
                   "layoutKey": "540722",
                   "seats": [
                     "....AAAAAAA?AAOOOOAAAAAAAA...",
-                    "...AAAAAOOOOOOOOOOOOAAAAAAA..",
+                    "...AAAAAOOOOOOOOOOOOOAAAAAA..",
                     "..OOOOOOOOOOOOO?OOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "..AAAOOOOOOOOOOOOOOOOOAAAO...",
@@ -6030,7 +6030,7 @@
                     "...AAAAAAAAAAAAAAAAAAAAAAAA..",
                     "..AAAAAAAAAAAAA?AAAAAAAAAAAA.",
                     "AAAAAAAAAAAAAOOAAAAAAAAAAAAAA",
-                    "..AAAAAAAAOOOOOOOOOOOAAAAA...",
+                    "..AAAAAAOOOOOOOOOOOOOAAAAA...",
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -6117,7 +6117,7 @@
                     ".............................",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOAAAA",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOAA",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOO?OOOOO??OOOOOOOO."
@@ -10189,36 +10189,6 @@
             "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
           ]
         },
-        "388123": {
-          "totalRows": 11,
-          "totalColumns": 29,
-          "rowLabels": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            null,
-            "F",
-            "G",
-            "H",
-            "I",
-            "J"
-          ],
-          "seatTypes": [
-            "...SSSSSSSSSSSSSSSSSSSS......",
-            "..SSSSSSSSSSSSSSSSSSSSSSS....",
-            ".SSSSSSSSSSSSSSSSSSSSSSSSS...",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "..WWCSSSSSSSSSSSSSSSSSSSCWW..",
-            ".............................",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSS.",
-            "SSSSSSSSSSSSSSSSSSSSSSSSSSSSS"
-          ]
-        },
         "388124": {
           "totalRows": 11,
           "totalColumns": 29,
@@ -10681,7 +10651,7 @@
                     "..AAAAAOOOOOOOOOOOOOOAAAAAA..",
                     ".............................",
                     "AAOOOAOOOOOOOOOOOOOOOOOOAAAA.",
-                    "AAAOOOOOOOOOOOOOOOOOOOOOOOOA.",
+                    "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
@@ -10758,7 +10728,7 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAO.",
-                    "..AAAAAAAOOOOOOOOOAAAAAAAAA..",
+                    "..AAAAAAAOOOOOOOOOAAAAOOAAA..",
                     ".............................",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "AAAOOOOOOOOOOOOOOOOOOOOOOOAA.",
@@ -10804,7 +10774,7 @@
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
-                    "..AAAAAAAOOOOOOOOAAAAAAAAAA..",
+                    "..AAAAAAOOOOOOOOOAAAAAAAAAA..",
                     ".............................",
                     "AAAAAOOOOOOOOOOOOOOOOOAAAAAA.",
                     "AAAAOOOOOOOOOOOOOOOOOOOAAAAA.",
@@ -10911,7 +10881,7 @@
                     ".............................",
                     "AAAAAAAAOOOOOOOOOOOAAAAAAAAA.",
                     "AAAAAAAAOOOOOOOOOOOOAAAAAAAA.",
-                    "AAAAAAAOOOOOOOOOOOOOOAAAAAAAA",
+                    "AAAAAAAOOOOOOOOOOOOOOOAAAAAAA",
                     "AAAAAOOOOOOOOOOOOOOOOOOAAAAA.",
                     "AAAAAAOOOOOOOOOOOOOOOOOOAAAAA"
                   ]
@@ -10936,20 +10906,7 @@
                     "70mm"
                   ],
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388123&a=0000000001&l=7420&m=dune-part-three&ss=False",
-                  "layoutKey": "388123",
-                  "seats": [
-                    "...OOOOOOOOOOOAOOOOOOOO......",
-                    "..OOOOOOOOOOOOOOOOOOOOOOO....",
-                    ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "..AAOOOOOOOOOOOOOOOOOOOOOAA..",
-                    ".............................",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
-                  ]
+                  "seatEligible": false
                 }
               ]
             }
@@ -10973,7 +10930,7 @@
                   "ticketUrl": "https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=388124&a=0000000001&l=7420&m=dune-part-three&ss=False",
                   "layoutKey": "388124",
                   "seats": [
-                    "...OOOOOOOOOOOOOOOOOOOO......",
+                    "...OOOOOOOOOOOOOAOOOOOO......",
                     "..OOOOOOOOOOOOOOOOOOOOOOO....",
                     ".OOOOOOOOOOOOOOOOOOOOOOOOO...",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -11548,7 +11505,7 @@
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAOOOOOOOOOOOOOOOOOOOAAAA...",
-                    "OOOOOOOOOOOOOOOOOOOOOOOOOAAA.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -11731,7 +11688,7 @@
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
-                    "AAAAAAAAOOOOOOOOOOAAAAAAAAAA.",
+                    "AAAAAAAAOOOOOOOOOOOOAAAAAAAA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -12246,7 +12203,7 @@
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
                     ".AAAAAAAAAAAAAAAAAAAAAAAAA...",
-                    "AAAAAAAAAOOOOOOOOOOOOAAAAAAA.",
+                    "AAAAAAAOOOOOOOOOOOOOOAAAAAAA.",
                     "..AAAOOOOOOOOOOOOOOOOOOOAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
@@ -12479,7 +12436,7 @@
                     "..AAAAAOOAAOOOOOOOOOOOAAAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
-                    "OOOOAAOOOOOOOOOOOOOOOOOOOOOO.",
+                    "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "AOOOOOOOOOOOOOOOOOOOOOOOOOOOA",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO"
@@ -12657,8 +12614,8 @@
                   "seats": [
                     "...AAAAAAAAAAAAAAAAAAAA......",
                     "..AAAAAAAAAAAAAAAAAAAAAAA....",
-                    ".AAAAAAAAAOOOOOOOOOAAAAAAA...",
-                    "AAAAAAAOOOOOOOOOOOOOAAAAAAAA.",
+                    ".AAAAOOOOOOOOOOOOOOAAAAAAA...",
+                    "AAAAOOOOOOOOOOOOOOOOAAAAAAAA.",
                     "..AAAOOOOOOOOOOOOOOOOAAAAAA..",
                     ".............................",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOA.",
@@ -12970,7 +12927,7 @@
                     "AAAAAAAAAAAAAAAAAAAAAAAAAAAA.",
                     "..AAAAAAAOOOOOOOOOOOOAAAAAA..",
                     ".............................",
-                    "AAAAOOOOOOOOOOOOOOOOOOOOOAAA.",
+                    "AAOOOOOOOOOOOOOOOOOOOOOOOAAA.",
                     "AAOOOOOOOOOOOOOOOOOOOOOOOOOO.",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
                     "OOOOOOOOOOOOOOOOOOOOOOOOOOOO.",
